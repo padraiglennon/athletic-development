@@ -1,18 +1,20 @@
-# Session 3, Tuesday 1 September
+# Session 1, Tuesday 25 August
 
 | | |
 | --- | --- |
-| Code | Football |
+| Code | Hurling |
 | Night | Push night. Teach it slowly, then put the pace up |
 | Theme | Starting |
 | Body shape | The sit |
-| Next match | Hurling, Saturday 5 September |
+| Next match | Football, Saturday 29 August |
+
+First night at the station. Spend two minutes on the layout before anything else: six lanes, a disc each, and where a boy stands when he is not running. Do that properly once and you never do it again. Take the two minutes out of the wake up game, never out of the shapes.
 
 ## On the ground
 
 - Twelve cones, six lanes, 15 metres long
 - 25 marker discs beside the lanes, one per boy
-- No balls tonight. Hands free for the crouch and the kneeling starts
+- No hurls tonight. The first night is about the layout and the first step
 
 ```
   start line                    finish line
@@ -35,8 +37,8 @@
 ## Structure and rules
 
 - **0 to 2, wake up game.** Everyone jogging inside the area. On the shout, sprint to the nearest cone and stop dead. Four or five goes.
-- **2 to 8, movement.** Add the crouch start and the start from one knee. Four starts now, and they choose nothing. You call which one.
-- **8 to 13, body shape.** The sit. Ten slow ones, then five held for ten seconds.
+- **2 to 8, movement.** First step, waves of six down the lanes. Standing starts and starts from a walk, nothing else. Six goes each, slow. Show the first step going forward and low.
+- **8 to 13, body shape.** The sit. Everyone on his own disc. Find it first: feet under the shoulders, heels flat, chest up. Ten slow ones, five seconds each.
 - **13 to 17, challenge game.** Race off the ground. Pairs side by side a metre apart, both lying on their fronts. On the shout, up and race ten metres. New partner every go.
 
 Rules, the same every night:
@@ -51,22 +53,23 @@ Rules, the same every night:
 
 Work down this list and stop wherever the group is. Getting to the bottom of it is not the aim.
 
-1. Crouch start, walked out for two steps, then run. Four goes.
-2. Start from one knee, two goes off each knee.
-3. All four starts, called out late so nobody knows which is coming. Six goes.
+1. Walk the first two steps out of a standing start. Six goes, no running.
+2. Standing start into a ten metre run. Six goes, slow.
+3. Start from a walk into a ten metre run. Six goes.
+4. The same over the full 15 metres, once the lanes are running clean.
 
 ## Coaching points
 
-- **Coach one thing tonight: heels staying flat on the ground in the sit.**
-- Out of the crouch the hands leave the ground first and the head stays down for two steps.
-- Call the start late. Half of this is listening.
+- **Coach one thing tonight: knees pointing the same way as the toes.** Pick three boys, fix one thing each, and leave the other 22 alone.
+- The first step goes forward and low, not up.
+- Under thirty seconds of talking before they move. Explain the next bit while they are already going.
 
 ## If it is not working
 
 - **Running late.** Cut the wake up game. Never cut the body shapes.
 - **It looks bad.** Go back a step in the progression. Slower and correct beats faster and messy.
-- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../activities.md#wet-night-alternatives).
+- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../../activities.md#wet-night-alternatives).
 
 ---
 
-[The starting theme in full](../activities.md#theme-1-starting) · [How to run the station](../session-guide.md) · [All twenty nights](../autumn-2026.md) · [Back to session 2](02-thu-27-aug.md) · [On to session 4](04-thu-03-sep.md)
+[The starting theme in full](../../activities.md#theme-1-starting) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [On to session 2](02-thu-27-aug.md)

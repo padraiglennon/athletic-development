@@ -1,4 +1,4 @@
-# Session 16, Thursday 15 October
+# Session 12, Thursday 1 October
 
 | | |
 | --- | --- |
@@ -6,9 +6,7 @@
 | Night | Ease off night. Same movement at match pace, then send them home fresher |
 | Theme | Stopping |
 | Body shape | The bow |
-| Next match | Hurling, Saturday 17 October |
-
-Last night of the theme. Eight goes at stopping, so tonight is for using it, not teaching it.
+| Next match | Hurling, Saturday 3 October |
 
 ## On the ground
 
@@ -39,8 +37,8 @@ Last night of the theme. Eight goes at stopping, so tonight is for using it, not
 ## Structure and rules
 
 - **0 to 2, wake up game.** Traffic lights. Green is run, red is stop dead. Anyone still moving after red does five sits.
-- **2 to 9, movement.** Run, stop, turn, go. Hurl in hand, at pace.
-- **9 to 15, body shape.** Thirty seconds of the bow, then thirty of the sit. Two shapes they should now be able to name.
+- **2 to 9, movement.** At pace with a hurl. Hold up fingers as they run and they shout the number at the stop.
+- **9 to 15, body shape.** The bow on one leg, a hand on a partner. Five each leg.
 - **15 to 17, finish.** No challenge game tonight. Walk them in, ask them to name the shape, and hand them on to the next station on time.
 
 Rules, the same every night:
@@ -55,21 +53,21 @@ Rules, the same every night:
 
 Work down this list and stop wherever the group is. Getting to the bottom of it is not the aim.
 
-1. Run in, stop, turn, sprint back. Hurl in hand. Four goes.
-2. The same, turning off the other foot. Four goes.
+1. Run in with a hurl, stop on the line. Four goes.
+2. The same, with fingers held up as they run and the number shouted back at the stop. Six goes.
 
 ## Coaching points
 
-- **Coach nothing new tonight.** Ask three boys what the two shapes are called.
-- Run, stop, turn, go, at pace, and let them enjoy it.
+- **Coach one thing tonight: head up while stopping.** That is the whole reason for the numbers.
+- A hurl held along the back is still the quickest way to show a flat back.
 - Ease off night. Match in two days.
 
 ## If it is not working
 
 - **Running late.** Cut the wake up game. Never cut the body shapes.
 - **It looks bad.** Go back a step in the progression. Slower and correct beats faster and messy.
-- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../activities.md#wet-night-alternatives).
+- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../../activities.md#wet-night-alternatives).
 
 ---
 
-[The stopping theme in full](../activities.md#theme-2-stopping) · [How to run the station](../session-guide.md) · [All twenty nights](../autumn-2026.md) · [Back to session 15](15-tue-13-oct.md) · [On to session 17](17-tue-20-oct.md)
+[The stopping theme in full](../../activities.md#theme-2-stopping) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 11](11-tue-29-sep.md) · [On to session 13](13-tue-06-oct.md)

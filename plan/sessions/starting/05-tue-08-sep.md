@@ -1,20 +1,18 @@
-# Session 7, Tuesday 15 September
+# Session 5, Tuesday 8 September
 
 | | |
 | --- | --- |
-| Code | Football |
+| Code | Hurling |
 | Night | Push night. Teach it slowly, then put the pace up |
 | Theme | Starting |
 | Body shape | The sit |
-| Next match | Hurling, Saturday 19 September |
-
-The hardest night of the block. This is where the pace goes up, because there is nowhere else in the fortnight to put it.
+| Next match | Football, Saturday 12 September |
 
 ## On the ground
 
 - Twelve cones, six lanes, 15 metres long
 - 25 marker discs beside the lanes, one per boy
-- No balls tonight. Hands free
+- Hurls for the body shape work only. The starts are done with hands free
 
 ```
   start line                    finish line
@@ -37,8 +35,8 @@ The hardest night of the block. This is where the pace goes up, because there is
 ## Structure and rules
 
 - **0 to 2, wake up game.** Everyone jogging inside the area. On the shout, sprint to the nearest cone and stop dead. Four or five goes.
-- **2 to 8, movement.** Starts on a shout, so they do not know when it is coming. Then the same with eyes shut.
-- **8 to 13, body shape.** The sit on one leg, a hand on a partner for balance. Five each leg.
+- **2 to 8, movement.** Add sitting on the ground and lying on the front. All six starts now, two goes at each.
+- **8 to 13, body shape.** The sit, arms straight overhead. Harder than it sounds, and it shows you who is stiff.
 - **13 to 17, challenge game.** Race off the ground. Pairs side by side a metre apart, both lying on their fronts. On the shout, up and race ten metres. New partner every go.
 
 Rules, the same every night:
@@ -53,22 +51,22 @@ Rules, the same every night:
 
 Work down this list and stop wherever the group is. Getting to the bottom of it is not the aim.
 
-1. All six starts, one go at each, to settle them in.
-2. Standing and crouch starts on a shout, going on the sound and not on a count. Four goes.
-3. The same again with eyes shut until the shout. Four goes.
+1. Sitting on the ground, get up and go. Two goes.
+2. Lying on the front, the same. Two goes.
+3. All six starts in order, two goes at each.
 
 ## Coaching points
 
-- **Coach one thing tonight: reacting without falling out of the start.** If a boy is falling over, put him back to standing starts.
-- Eyes shut only works if it is quiet. One whistle, one voice.
-- Push night, so the pace can go up. It does not go up on a Thursday.
+- **Coach one thing tonight: getting off the ground in one movement rather than crawling up.**
+- A hand down on the ground is fine. Knees dragging is not.
+- Arms overhead shows you who is stiff. Make a note of it, do not try to fix it tonight.
 
 ## If it is not working
 
 - **Running late.** Cut the wake up game. Never cut the body shapes.
 - **It looks bad.** Go back a step in the progression. Slower and correct beats faster and messy.
-- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../activities.md#wet-night-alternatives).
+- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../../activities.md#wet-night-alternatives).
 
 ---
 
-[The starting theme in full](../activities.md#theme-1-starting) · [How to run the station](../session-guide.md) · [All twenty nights](../autumn-2026.md) · [Back to session 6](06-thu-10-sep.md) · [On to session 8](08-thu-17-sep.md)
+[The starting theme in full](../../activities.md#theme-1-starting) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 4](04-thu-03-sep.md) · [On to session 6](06-thu-10-sep.md)

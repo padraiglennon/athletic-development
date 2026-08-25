@@ -29,7 +29,7 @@ Three groups, sorted by ability, rotating between athletic development, skills, 
 2. [plan/activities.md](plan/activities.md) is ten themes, one every eight sessions, each filling the seventeen minutes.
 3. [plan/year-plan.md](plan/year-plan.md) is what order the themes go in and why.
 4. [plan/autumn-2026.md](plan/autumn-2026.md) is the calendar from 25 August to Halloween, and it links to every night.
-5. [plan/sessions/](plan/sessions/) is one page per night: the layout, the four parts, the progression, and the one thing to coach. This is the page to bring to the pitch.
+5. [plan/sessions/](plan/sessions/) is one page per night, in a folder per theme: the layout, the four parts, the progression, and the one thing to coach. This is the page to bring to the pitch.
 6. [plan/equipment.md](plan/equipment.md) is what to buy with the 100 euro.
 7. [knowledge/action-statement-notes.md](knowledge/action-statement-notes.md) is the GAA document explained in ordinary words, for when someone asks why we do it this way.
 

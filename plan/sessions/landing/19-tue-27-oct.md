@@ -1,19 +1,19 @@
-# Session 18, Thursday 22 October
+# Session 19, Tuesday 27 October
 
 | | |
 | --- | --- |
 | Code | Football |
-| Night | Ease off night. Same movement at match pace, then send them home fresher |
+| Night | Push night. Teach it slowly, then put the pace up |
 | Theme | Landing |
 | Body shape | The landing |
-| Next match | Football, Saturday 24 October |
+| Next match | Hurling, Saturday 31 October |
 
 ## On the ground
 
 - Twelve cones, six lanes, 15 metres long
 - 25 marker discs beside the lanes, one per boy
 - Six mini hurdles, one per lane
-- Six footballs, one per lane
+- No balls tonight. Hands free
 
 ```
   start line          hurdle       finish line
@@ -36,9 +36,9 @@
 ## Structure and rules
 
 - **0 to 2, wake up game.** Bunny hops around the grid, silent landings only. Anyone you hear is out for ten seconds.
-- **2 to 9, movement.** Mini hurdles, one per lane, two feet to two feet. Over, land silent, hold for two seconds.
-- **9 to 15, body shape.** The landing, held five seconds, ball in hand.
-- **15 to 17, finish.** No challenge game tonight. Walk them in, ask them to name the shape, and hand them on to the next station on time.
+- **2 to 8, movement.** One foot to two feet, then two feet to one foot. Slowly, and hold every single landing.
+- **8 to 13, body shape.** One foot landings, five each leg, hold three seconds.
+- **13 to 17, challenge game.** Longest silent jump. Two feet to two feet, and it only counts if he lands silent and holds still for three seconds.
 
 Rules, the same every night:
 
@@ -52,22 +52,22 @@ Rules, the same every night:
 
 Work down this list and stop wherever the group is. Getting to the bottom of it is not the aim.
 
-1. Step over the hurdle and hold the landing. Four goes.
-2. Jump the hurdle, two feet to two feet, land silent, hold two seconds. Six goes.
-3. The same with a ball in hand. Four goes.
+1. One foot to two feet over the hurdle, hold three seconds. Five off each foot.
+2. Two feet to one foot, hold three seconds. Five onto each foot.
+3. Anyone whose knee falls inwards goes back to two feet to two feet.
 
 ## Coaching points
 
-- **Coach one thing tonight: knees falling inwards on the landing.**
-- Hurdles stay at 15 cm. There is nothing to be gained from a higher one at this age.
-- Ease off night. Match in two days.
+- **Coach one thing tonight: where the knee goes on a one foot landing.** Watch it closely and put anyone who looks bad back onto two feet.
+- Everything slow. There is no reason at all to rush a landing.
+- Push night, but tonight the pushing is in the difficulty, not the pace.
 
 ## If it is not working
 
 - **Running late.** Cut the wake up game. Never cut the body shapes.
 - **It looks bad.** Go back a step in the progression. Slower and correct beats faster and messy.
-- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../activities.md#wet-night-alternatives).
+- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../../activities.md#wet-night-alternatives).
 
 ---
 
-[The landing theme in full](../activities.md#theme-3-landing) · [How to run the station](../session-guide.md) · [All twenty nights](../autumn-2026.md) · [Back to session 17](17-tue-20-oct.md) · [On to session 19](19-tue-27-oct.md)
+[The landing theme in full](../../activities.md#theme-3-landing) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 18](18-thu-22-oct.md) · [On to session 20](20-thu-29-oct.md)

@@ -1,18 +1,18 @@
-# Session 5, Tuesday 8 September
+# Session 3, Tuesday 1 September
 
 | | |
 | --- | --- |
-| Code | Hurling |
+| Code | Football |
 | Night | Push night. Teach it slowly, then put the pace up |
 | Theme | Starting |
 | Body shape | The sit |
-| Next match | Football, Saturday 12 September |
+| Next match | Hurling, Saturday 5 September |
 
 ## On the ground
 
 - Twelve cones, six lanes, 15 metres long
 - 25 marker discs beside the lanes, one per boy
-- Hurls for the body shape work only. The starts are done with hands free
+- No balls tonight. Hands free for the crouch and the kneeling starts
 
 ```
   start line                    finish line
@@ -35,8 +35,8 @@
 ## Structure and rules
 
 - **0 to 2, wake up game.** Everyone jogging inside the area. On the shout, sprint to the nearest cone and stop dead. Four or five goes.
-- **2 to 8, movement.** Add sitting on the ground and lying on the front. All six starts now, two goes at each.
-- **8 to 13, body shape.** The sit, arms straight overhead. Harder than it sounds, and it shows you who is stiff.
+- **2 to 8, movement.** Add the crouch start and the start from one knee. Four starts now, and they choose nothing. You call which one.
+- **8 to 13, body shape.** The sit. Ten slow ones, then five held for ten seconds.
 - **13 to 17, challenge game.** Race off the ground. Pairs side by side a metre apart, both lying on their fronts. On the shout, up and race ten metres. New partner every go.
 
 Rules, the same every night:
@@ -51,22 +51,22 @@ Rules, the same every night:
 
 Work down this list and stop wherever the group is. Getting to the bottom of it is not the aim.
 
-1. Sitting on the ground, get up and go. Two goes.
-2. Lying on the front, the same. Two goes.
-3. All six starts in order, two goes at each.
+1. Crouch start, walked out for two steps, then run. Four goes.
+2. Start from one knee, two goes off each knee.
+3. All four starts, called out late so nobody knows which is coming. Six goes.
 
 ## Coaching points
 
-- **Coach one thing tonight: getting off the ground in one movement rather than crawling up.**
-- A hand down on the ground is fine. Knees dragging is not.
-- Arms overhead shows you who is stiff. Make a note of it, do not try to fix it tonight.
+- **Coach one thing tonight: heels staying flat on the ground in the sit.**
+- Out of the crouch the hands leave the ground first and the head stays down for two steps.
+- Call the start late. Half of this is listening.
 
 ## If it is not working
 
 - **Running late.** Cut the wake up game. Never cut the body shapes.
 - **It looks bad.** Go back a step in the progression. Slower and correct beats faster and messy.
-- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../activities.md#wet-night-alternatives).
+- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../../activities.md#wet-night-alternatives).
 
 ---
 
-[The starting theme in full](../activities.md#theme-1-starting) · [How to run the station](../session-guide.md) · [All twenty nights](../autumn-2026.md) · [Back to session 4](04-thu-03-sep.md) · [On to session 6](06-thu-10-sep.md)
+[The starting theme in full](../../activities.md#theme-1-starting) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 2](02-thu-27-aug.md) · [On to session 4](04-thu-03-sep.md)

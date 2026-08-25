@@ -67,8 +67,8 @@ Work down this list and stop wherever the group is. Getting to the bottom of it 
 
 - **Running late.** Cut the wake up game. Never cut the body shapes.
 - **It looks bad.** Go back a step in the progression. Slower and correct beats faster and messy.
-- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../activities.md#wet-night-alternatives).
+- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../../activities.md#wet-night-alternatives).
 
 ---
 
-[The landing theme in full](../activities.md#theme-3-landing) · [How to run the station](../session-guide.md) · [All twenty nights](../autumn-2026.md) · [Back to session 19](19-tue-27-oct.md)
+[The landing theme in full](../../activities.md#theme-3-landing) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 19](19-tue-27-oct.md)

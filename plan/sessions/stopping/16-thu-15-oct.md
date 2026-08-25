@@ -1,12 +1,14 @@
-# Session 13, Tuesday 6 October
+# Session 16, Thursday 15 October
 
 | | |
 | --- | --- |
 | Code | Hurling |
-| Night | Push night. Teach it slowly, then put the pace up |
+| Night | Ease off night. Same movement at match pace, then send them home fresher |
 | Theme | Stopping |
 | Body shape | The bow |
-| Next match | Football, Saturday 10 October |
+| Next match | Hurling, Saturday 17 October |
+
+Last night of the theme. Eight goes at stopping, so tonight is for using it, not teaching it.
 
 ## On the ground
 
@@ -37,9 +39,9 @@
 ## Structure and rules
 
 - **0 to 2, wake up game.** Traffic lights. Green is run, red is stop dead. Anyone still moving after red does five sits.
-- **2 to 8, movement.** Stop, hold for two seconds, then go again. Then the same with no hold, stop and straight back into a sprint.
-- **8 to 13, body shape.** The bow, held fifteen seconds, three times.
-- **13 to 17, challenge game.** Stop on the number. Hold up fingers as they run in. They stop on the line and shout the number back, so they have to look up while stopping.
+- **2 to 9, movement.** Run, stop, turn, go. Hurl in hand, at pace.
+- **9 to 15, body shape.** Thirty seconds of the bow, then thirty of the sit. Two shapes they should now be able to name.
+- **15 to 17, finish.** No challenge game tonight. Walk them in, ask them to name the shape, and hand them on to the next station on time.
 
 Rules, the same every night:
 
@@ -53,22 +55,21 @@ Rules, the same every night:
 
 Work down this list and stop wherever the group is. Getting to the bottom of it is not the aim.
 
-1. Run in, stop, hold two seconds, then sprint on. Four goes.
-2. Run in, stop, and straight back into a sprint with no hold. Four goes.
-3. The same again, turning and sprinting back the way they came. Four goes.
+1. Run in, stop, turn, sprint back. Hurl in hand. Four goes.
+2. The same, turning off the other foot. Four goes.
 
 ## Coaching points
 
-- **Coach one thing tonight: the start out of the stop.** Most boys stand fully upright first and waste it.
-- The stop and the next start are one movement, not two.
-- Push night. This is where the pace goes up.
+- **Coach nothing new tonight.** Ask three boys what the two shapes are called.
+- Run, stop, turn, go, at pace, and let them enjoy it.
+- Ease off night. Match in two days.
 
 ## If it is not working
 
 - **Running late.** Cut the wake up game. Never cut the body shapes.
 - **It looks bad.** Go back a step in the progression. Slower and correct beats faster and messy.
-- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../activities.md#wet-night-alternatives).
+- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../../activities.md#wet-night-alternatives).
 
 ---
 
-[The stopping theme in full](../activities.md#theme-2-stopping) · [How to run the station](../session-guide.md) · [All twenty nights](../autumn-2026.md) · [Back to session 12](12-thu-01-oct.md) · [On to session 14](14-thu-08-oct.md)
+[The stopping theme in full](../../activities.md#theme-2-stopping) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 15](15-tue-13-oct.md) · [On to session 17](../landing/17-tue-20-oct.md)

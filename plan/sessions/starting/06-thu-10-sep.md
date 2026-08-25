@@ -1,4 +1,4 @@
-# Session 2, Thursday 27 August
+# Session 6, Thursday 10 September
 
 | | |
 | --- | --- |
@@ -6,7 +6,7 @@
 | Night | Ease off night. Same movement at match pace, then send them home fresher |
 | Theme | Starting |
 | Body shape | The sit |
-| Next match | Football, Saturday 29 August |
+| Next match | Football, Saturday 12 September |
 
 ## On the ground
 
@@ -35,8 +35,8 @@
 ## Structure and rules
 
 - **0 to 2, wake up game.** Everyone jogging inside the area. On the shout, sprint to the nearest cone and stop dead. Four or five goes.
-- **2 to 9, movement.** The same two starts, ball in hand, at match pace. Nothing new.
-- **9 to 15, body shape.** The sit. Ten slow ones, then hold it while you walk round trying to make them laugh.
+- **2 to 9, movement.** All six starts at pace, ball in hand.
+- **9 to 15, body shape.** The sit, held while a partner gently nudges a shoulder. Ten seconds, then swap.
 - **15 to 17, finish.** No challenge game tonight. Walk them in, ask them to name the shape, and hand them on to the next station on time.
 
 Rules, the same every night:
@@ -51,22 +51,21 @@ Rules, the same every night:
 
 Work down this list and stop wherever the group is. Getting to the bottom of it is not the aim.
 
-1. Standing start, ball in hand, ten metres at three quarter pace. Four goes.
-2. Standing start, the full 15 metres, match pace. Four goes.
-3. Start from a walk, ball in hand, 15 metres. Four goes.
+1. All six starts, ball in hand, one go at each at half pace.
+2. All six again at match pace.
 
 ## Coaching points
 
-- **Coach one thing tonight: the first step goes forward, not up.** A boy who bounces upright first has wasted a step.
-- A ball in the hands should change nothing about the start. If it does, he is gripping it too hard.
-- Ease off night. Nothing new, and send them home fresher than they arrived.
+- **Coach one thing tonight: head up coming out of the start.**
+- The nudge is gentle. Anyone shoving sits out a go.
+- Ease off night. Match in two days.
 
 ## If it is not working
 
 - **Running late.** Cut the wake up game. Never cut the body shapes.
 - **It looks bad.** Go back a step in the progression. Slower and correct beats faster and messy.
-- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../activities.md#wet-night-alternatives).
+- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../../activities.md#wet-night-alternatives).
 
 ---
 
-[The starting theme in full](../activities.md#theme-1-starting) · [How to run the station](../session-guide.md) · [All twenty nights](../autumn-2026.md) · [Back to session 1](01-tue-25-aug.md) · [On to session 3](03-tue-01-sep.md)
+[The starting theme in full](../../activities.md#theme-1-starting) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 5](05-tue-08-sep.md) · [On to session 7](07-tue-15-sep.md)

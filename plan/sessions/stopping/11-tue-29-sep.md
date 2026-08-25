@@ -1,4 +1,4 @@
-# Session 15, Tuesday 13 October
+# Session 11, Tuesday 29 September
 
 | | |
 | --- | --- |
@@ -6,9 +6,7 @@
 | Night | Push night. Teach it slowly, then put the pace up |
 | Theme | Stopping |
 | Body shape | The bow |
-| Next match | Hurling, Saturday 17 October |
-
-The hardest night of the block, in the theme that matters most all year. Push it, and be strict about what you let past.
+| Next match | Hurling, Saturday 3 October |
 
 ## On the ground
 
@@ -39,8 +37,8 @@ The hardest night of the block, in the theme that matters most all year. Push it
 ## Structure and rules
 
 - **0 to 2, wake up game.** Traffic lights. Green is run, red is stop dead. Anyone still moving after red does five sits.
-- **2 to 8, movement.** Stopping on one foot. Walk it, then jog it, then run it, and only move a boy on when it looks right.
-- **8 to 13, body shape.** The bow on one leg, arms out sideways, ten seconds each leg.
+- **2 to 8, movement.** Build to a proper run. Move the stopping line further out so they arrive faster.
+- **8 to 13, body shape.** The bow, then the sit, then stand. Link the two shapes so they feel one running into the other.
 - **13 to 17, challenge game.** Stop on the number. Hold up fingers as they run in. They stop on the line and shout the number back, so they have to look up while stopping.
 
 Rules, the same every night:
@@ -55,22 +53,22 @@ Rules, the same every night:
 
 Work down this list and stop wherever the group is. Getting to the bottom of it is not the aim.
 
-1. Walk in, stop on one foot, hold three seconds. Five each foot.
-2. Jog in, stop on one foot. Four each foot.
-3. Run in, stop on one foot. Only the boys whose knees stayed out at step two.
+1. Stop line at ten metres, running in. Four goes.
+2. Line moved out to 13 metres so they arrive faster. Four goes.
+3. The same again. Anyone taking more than two steps goes back to ten metres.
 
 ## Coaching points
 
-- **Coach one thing tonight: knees falling inwards on the one foot stop.** If it looks bad, back to two feet. No argument.
-- Slower and correct beats faster and messy, and tonight is the night to say that out loud.
-- Nobody moves up a step because his friends did.
+- **Coach one thing tonight: chest forward and backside back.**
+- Bow, sit, stand, so they feel that one shape runs into the other.
+- If the longer run in makes the stops ragged, move the line back in. Speed is not the point yet.
 
 ## If it is not working
 
 - **Running late.** Cut the wake up game. Never cut the body shapes.
 - **It looks bad.** Go back a step in the progression. Slower and correct beats faster and messy.
-- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../activities.md#wet-night-alternatives).
+- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../../activities.md#wet-night-alternatives).
 
 ---
 
-[The stopping theme in full](../activities.md#theme-2-stopping) · [How to run the station](../session-guide.md) · [All twenty nights](../autumn-2026.md) · [Back to session 14](14-thu-08-oct.md) · [On to session 16](16-thu-15-oct.md)
+[The stopping theme in full](../../activities.md#theme-2-stopping) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 10](10-thu-24-sep.md) · [On to session 12](12-thu-01-oct.md)

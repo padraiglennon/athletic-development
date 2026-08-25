@@ -1,12 +1,12 @@
-# Session 12, Thursday 1 October
+# Session 13, Tuesday 6 October
 
 | | |
 | --- | --- |
 | Code | Hurling |
-| Night | Ease off night. Same movement at match pace, then send them home fresher |
+| Night | Push night. Teach it slowly, then put the pace up |
 | Theme | Stopping |
 | Body shape | The bow |
-| Next match | Hurling, Saturday 3 October |
+| Next match | Football, Saturday 10 October |
 
 ## On the ground
 
@@ -37,9 +37,9 @@
 ## Structure and rules
 
 - **0 to 2, wake up game.** Traffic lights. Green is run, red is stop dead. Anyone still moving after red does five sits.
-- **2 to 9, movement.** At pace with a hurl. Hold up fingers as they run and they shout the number at the stop.
-- **9 to 15, body shape.** The bow on one leg, a hand on a partner. Five each leg.
-- **15 to 17, finish.** No challenge game tonight. Walk them in, ask them to name the shape, and hand them on to the next station on time.
+- **2 to 8, movement.** Stop, hold for two seconds, then go again. Then the same with no hold, stop and straight back into a sprint.
+- **8 to 13, body shape.** The bow, held fifteen seconds, three times.
+- **13 to 17, challenge game.** Stop on the number. Hold up fingers as they run in. They stop on the line and shout the number back, so they have to look up while stopping.
 
 Rules, the same every night:
 
@@ -53,21 +53,22 @@ Rules, the same every night:
 
 Work down this list and stop wherever the group is. Getting to the bottom of it is not the aim.
 
-1. Run in with a hurl, stop on the line. Four goes.
-2. The same, with fingers held up as they run and the number shouted back at the stop. Six goes.
+1. Run in, stop, hold two seconds, then sprint on. Four goes.
+2. Run in, stop, and straight back into a sprint with no hold. Four goes.
+3. The same again, turning and sprinting back the way they came. Four goes.
 
 ## Coaching points
 
-- **Coach one thing tonight: head up while stopping.** That is the whole reason for the numbers.
-- A hurl held along the back is still the quickest way to show a flat back.
-- Ease off night. Match in two days.
+- **Coach one thing tonight: the start out of the stop.** Most boys stand fully upright first and waste it.
+- The stop and the next start are one movement, not two.
+- Push night. This is where the pace goes up.
 
 ## If it is not working
 
 - **Running late.** Cut the wake up game. Never cut the body shapes.
 - **It looks bad.** Go back a step in the progression. Slower and correct beats faster and messy.
-- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../activities.md#wet-night-alternatives).
+- **Lashing rain.** Nothing here needs the ground except lying and kneeling. The swaps are at the end of the [activity bank](../../activities.md#wet-night-alternatives).
 
 ---
 
-[The stopping theme in full](../activities.md#theme-2-stopping) · [How to run the station](../session-guide.md) · [All twenty nights](../autumn-2026.md) · [Back to session 11](11-tue-29-sep.md) · [On to session 13](13-tue-06-oct.md)
+[The stopping theme in full](../../activities.md#theme-2-stopping) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 12](12-thu-01-oct.md) · [On to session 14](14-thu-08-oct.md)

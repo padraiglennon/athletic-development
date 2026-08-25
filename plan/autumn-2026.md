@@ -4,32 +4,32 @@ Twenty nights, Tuesday and Thursday at 5.30, from tonight to the Thursday before
 
 Everything here is the athletic development station only, seventeen minutes, run three times as the groups rotate.
 
-Every night has its own run sheet in [sessions](sessions/), a single page with the layout, the four parts, the progression and what to coach. Take that page to the pitch. This page is the calendar and the reason the blocks are in this order. The activities themselves are in the [activity bank](activities.md).
+Every night has its own run sheet in [sessions](sessions/), one folder per theme, a single page with the layout, the four parts, the progression and what to coach. Take that page to the pitch. This page is the calendar and the reason the blocks are in this order. The activities themselves are in the [activity bank](activities.md).
 
 ## The twenty nights
 
 | # | Date | Night | Saturday | Theme |
 | --- | --- | --- | --- | --- |
-| 1 | [Tue 25 Aug](sessions/01-tue-25-aug.md) | Hurling | Football, 29 Aug | Starting |
-| 2 | [Thu 27 Aug](sessions/02-thu-27-aug.md) | Football | Football, 29 Aug | Starting |
-| 3 | [Tue 1 Sep](sessions/03-tue-01-sep.md) | Football | Hurling, 5 Sep | Starting |
-| 4 | [Thu 3 Sep](sessions/04-thu-03-sep.md) | Hurling | Hurling, 5 Sep | Starting |
-| 5 | [Tue 8 Sep](sessions/05-tue-08-sep.md) | Hurling | Football, 12 Sep | Starting |
-| 6 | [Thu 10 Sep](sessions/06-thu-10-sep.md) | Football | Football, 12 Sep | Starting |
-| 7 | [Tue 15 Sep](sessions/07-tue-15-sep.md) | Football | Hurling, 19 Sep | Starting |
-| 8 | [Thu 17 Sep](sessions/08-thu-17-sep.md) | Hurling | Hurling, 19 Sep | Starting |
-| 9 | [Tue 22 Sep](sessions/09-tue-22-sep.md) | Hurling | Football, 26 Sep | Stopping |
-| 10 | [Thu 24 Sep](sessions/10-thu-24-sep.md) | Football | Football, 26 Sep | Stopping |
-| 11 | [Tue 29 Sep](sessions/11-tue-29-sep.md) | Football | Hurling, 3 Oct | Stopping |
-| 12 | [Thu 1 Oct](sessions/12-thu-01-oct.md) | Hurling | Hurling, 3 Oct | Stopping |
-| 13 | [Tue 6 Oct](sessions/13-tue-06-oct.md) | Hurling | Football, 10 Oct | Stopping |
-| 14 | [Thu 8 Oct](sessions/14-thu-08-oct.md) | Football | Football, 10 Oct | Stopping |
-| 15 | [Tue 13 Oct](sessions/15-tue-13-oct.md) | Football | Hurling, 17 Oct | Stopping |
-| 16 | [Thu 15 Oct](sessions/16-thu-15-oct.md) | Hurling | Hurling, 17 Oct | Stopping |
-| 17 | [Tue 20 Oct](sessions/17-tue-20-oct.md) | Hurling | Football, 24 Oct | Landing |
-| 18 | [Thu 22 Oct](sessions/18-thu-22-oct.md) | Football | Football, 24 Oct | Landing |
-| 19 | [Tue 27 Oct](sessions/19-tue-27-oct.md) | Football | Hurling, 31 Oct | Landing |
-| 20 | [Thu 29 Oct](sessions/20-thu-29-oct.md) | Hurling | Hurling, 31 Oct | Landing |
+| 1 | [Tue 25 Aug](sessions/starting/01-tue-25-aug.md) | Hurling | Football, 29 Aug | Starting |
+| 2 | [Thu 27 Aug](sessions/starting/02-thu-27-aug.md) | Football | Football, 29 Aug | Starting |
+| 3 | [Tue 1 Sep](sessions/starting/03-tue-01-sep.md) | Football | Hurling, 5 Sep | Starting |
+| 4 | [Thu 3 Sep](sessions/starting/04-thu-03-sep.md) | Hurling | Hurling, 5 Sep | Starting |
+| 5 | [Tue 8 Sep](sessions/starting/05-tue-08-sep.md) | Hurling | Football, 12 Sep | Starting |
+| 6 | [Thu 10 Sep](sessions/starting/06-thu-10-sep.md) | Football | Football, 12 Sep | Starting |
+| 7 | [Tue 15 Sep](sessions/starting/07-tue-15-sep.md) | Football | Hurling, 19 Sep | Starting |
+| 8 | [Thu 17 Sep](sessions/starting/08-thu-17-sep.md) | Hurling | Hurling, 19 Sep | Starting |
+| 9 | [Tue 22 Sep](sessions/stopping/09-tue-22-sep.md) | Hurling | Football, 26 Sep | Stopping |
+| 10 | [Thu 24 Sep](sessions/stopping/10-thu-24-sep.md) | Football | Football, 26 Sep | Stopping |
+| 11 | [Tue 29 Sep](sessions/stopping/11-tue-29-sep.md) | Football | Hurling, 3 Oct | Stopping |
+| 12 | [Thu 1 Oct](sessions/stopping/12-thu-01-oct.md) | Hurling | Hurling, 3 Oct | Stopping |
+| 13 | [Tue 6 Oct](sessions/stopping/13-tue-06-oct.md) | Hurling | Football, 10 Oct | Stopping |
+| 14 | [Thu 8 Oct](sessions/stopping/14-thu-08-oct.md) | Football | Football, 10 Oct | Stopping |
+| 15 | [Tue 13 Oct](sessions/stopping/15-tue-13-oct.md) | Football | Hurling, 17 Oct | Stopping |
+| 16 | [Thu 15 Oct](sessions/stopping/16-thu-15-oct.md) | Hurling | Hurling, 17 Oct | Stopping |
+| 17 | [Tue 20 Oct](sessions/landing/17-tue-20-oct.md) | Hurling | Football, 24 Oct | Landing |
+| 18 | [Thu 22 Oct](sessions/landing/18-thu-22-oct.md) | Football | Football, 24 Oct | Landing |
+| 19 | [Tue 27 Oct](sessions/landing/19-tue-27-oct.md) | Football | Hurling, 31 Oct | Landing |
+| 20 | [Thu 29 Oct](sessions/landing/20-thu-29-oct.md) | Hurling | Hurling, 31 Oct | Landing |
 
 Landing carries on past Halloween to session 24 on 12 November. That part is in the [year plan](year-plan.md).
 
