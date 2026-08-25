@@ -3,7 +3,7 @@
 | File | What it is |
 | --- | --- |
 | [gaelic-games-action-statement-2024.pdf](gaelic-games-action-statement-2024.pdf) | Gaelic Games athletic development action statement. GAA, LGFA and Camogie Association, January 2024. The framework this whole plan is built on. |
-| [action-statement-notes.md](action-statement-notes.md) | My notes on what it says, plus what it means for a U11 squad. Read this rather than the PDF if you are short of time. |
+| [action-statement-notes.md](action-statement-notes.md) | What it says, in plain English, plus what it means for a U11 squad. Read this rather than the PDF if you are short of time. |
 | [sample-exercises-barry.pdf](sample-exercises-barry.pdf) | Four sample exercises sent by Barry, the club sports director, August 2026. Page one is an LTAD Network game card, copyright 2021, www.ltadnetwork.com. |
 | [sample-exercises-notes.md](sample-exercises-notes.md) | What is in that pack, the one exercise we took from it, and why the other three are not for U11. |
 

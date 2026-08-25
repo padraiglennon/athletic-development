@@ -1,6 +1,6 @@
 # The year
 
-Written on 24 August 2026, revised on 25 August, for a squad of 75 to 80 U11 boys training at 5.30 on Tuesday and Thursday.
+For a squad of 75 to 80 U11 boys training at 5.30 on Tuesday and Thursday.
 
 One theme every eight sessions, ten themes, taken from the [activity bank](activities.md). Eight goes at it is enough for it to stick and short enough that nobody gets sick of it. There is no need for anything more complicated at this age, and anything more complicated will not survive contact with a wet Thursday in March.
 
@@ -50,8 +50,8 @@ Eight sessions is also exactly two turns of the fixture cycle, so every theme ge
 | 25 to 28 | 17 to 26 Nov 2026 | Back over the first three | Four odd nights before the break. Do not start a theme you cannot finish |
 | | December 2026 | Break | Nothing organised. Let them play something else |
 | 29 to 36 | 5 to 28 Jan 2027 | 4. Turning | Back after the break, so a familiar shape of night with new content |
-| 37 to 44 | 2 to 25 Feb 2027 | 5. Running tall | Needs calm and repetition, so before the season gets busy |
-| 45 to 52 | 2 to 25 Mar 2027 | 6. Sidestepping | Season under way, they will want something game-like |
+| 37 to 44 | 2 to 25 Feb 2027 | 5. Running tall | Slow and technical, and it works on a dark February evening in a small space |
+| 45 to 52 | 2 to 25 Mar 2027 | 6. Sidestepping | Something game-like, after a run of quiet technical themes |
 | 53 to 60 | 30 Mar to 22 Apr 2027 | 7. Backwards and sideways | The gap in most boys' movement |
 | 61 to 68 | 27 Apr to 20 May 2027 | 8. With a hurl or a ball | Ties the station to the skills station |
 | 69 to 76 | 25 May to 17 Jun 2027 | 9. Joining it up | Everything from the year, chained together |
@@ -68,6 +68,8 @@ The session by session plan for the first three themes is in [autumn-2026.md](au
 Nothing organised from us. Push the boys towards a different sport for a few weeks, and leave them alone otherwise.
 
 This is not laziness, it is in the GAA document. It asks coaches to encourage other sports and to protect time for messing about. A boy who plays basketball in December comes back a better mover in January.
+
+The season runs January to January, so this is the only break in the calendar. That makes it more important, not less. If matches carry on through December, the break is from us, not from the club, and it is worth agreeing with the other coaches what the boys are actually being asked to do that month.
 
 ## Two sessions and a match
 
