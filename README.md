@@ -1,0 +1,52 @@
+# U11 athletic development
+
+Plans for the athletic development part of U11 training, for a squad of 75 to 80 hurling and football boys. Built on the GAA's athletic development action statement, published in 2024.
+
+## What the week looks like
+
+Training is at 5.30 on Tuesday and Thursday. There is a match every Saturday, hurling one week and football the next.
+
+| | Tuesday | Thursday | Saturday |
+| --- | --- | --- | --- |
+| Code | The one that played last Saturday | The one playing this Saturday | |
+| Format | Normal rotations | Match format, same as Saturday | Match, hurling and football on alternate weeks |
+| Our job | Teach the movement slowly, then push it | Use it at match pace, then ease off | |
+
+Both nights run the same shape:
+
+| | |
+| --- | --- |
+| 5 to 8 minutes | Warm-up, all 80 boys together |
+| 17 to 18 minutes | Rotation 1 |
+| 17 to 18 minutes | Rotation 2 |
+| 17 to 18 minutes | Rotation 3 |
+
+Three groups, sorted by ability, rotating between athletic development, skills, and a match. So the athletic development station is about 25 boys at a time, seventeen minutes, run three times a night, twice a week.
+
+## Read these
+
+1. [plan/session-guide.md](plan/session-guide.md) is how to run the seventeen minutes with 25 boys, and how Tuesday differs from Thursday. Read this one first, and read it again before your first night.
+2. [plan/activities.md](plan/activities.md) is ten themes, one every eight sessions, each filling the seventeen minutes.
+3. [plan/year-plan.md](plan/year-plan.md) is what order the themes go in and why.
+4. [plan/autumn-2026.md](plan/autumn-2026.md) is every session from 25 August to Halloween, night by night.
+5. [plan/equipment.md](plan/equipment.md) is what to buy with the 100 euro.
+6. [knowledge/action-statement-notes.md](knowledge/action-statement-notes.md) is the GAA document explained in ordinary words, for when someone asks why we do it this way.
+
+## The short version
+
+The match rotation makes them fit. The skills rotation teaches them hurling and football. Our seventeen minutes teach them to start, stop, turn and land without hurting themselves, and to hold seven body shapes.
+
+Tuesday teaches it slowly and is the night to push. Thursday uses it at speed, with a hurl or a ball in hand, and eases off, because there is a match two days later every week.
+
+Nothing heavier than their own body. Slower and correct beats faster and messy. Nobody gets tested, measured or ranked.
+
+## Assumptions
+
+Written 24 August 2026. Tell me if any of these are wrong and I will change the affected parts.
+
+- Two sessions a week, Tuesday and Thursday at 5.30, all year apart from December.
+- A match every Saturday through the season, alternating hurling and football.
+- One or two coaches at the athletic development station.
+- The club already owns a pitch, balls and hurls. The 100 euro is for extras only.
+- Groups are sorted by ability and stay roughly the same week to week.
+- The season runs roughly March to September.
