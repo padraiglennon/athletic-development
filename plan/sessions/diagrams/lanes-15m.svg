@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 350" width="760" height="350" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="759" height="349" rx="6" fill="#fcfcf8" stroke="#d8d8d0"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#22262b">Six lanes, 15 metres</text>
+
+  <g stroke="#c6c6bd" stroke-width="1.5" stroke-dasharray="3 9" stroke-linecap="round">
+    <line x1="122" y1="74" x2="598" y2="74"/>
+    <line x1="122" y1="100" x2="598" y2="100"/>
+    <line x1="122" y1="126" x2="598" y2="126"/>
+    <line x1="122" y1="152" x2="598" y2="152"/>
+    <line x1="122" y1="178" x2="598" y2="178"/>
+    <line x1="122" y1="204" x2="598" y2="204"/>
+  </g>
+
+  <g fill="#e07a1f" stroke="#a8560f" stroke-width="1.2">
+    <circle cx="112" cy="74" r="6"/><circle cx="608" cy="74" r="6"/>
+    <circle cx="112" cy="100" r="6"/><circle cx="608" cy="100" r="6"/>
+    <circle cx="112" cy="126" r="6"/><circle cx="608" cy="126" r="6"/>
+    <circle cx="112" cy="152" r="6"/><circle cx="608" cy="152" r="6"/>
+    <circle cx="112" cy="178" r="6"/><circle cx="608" cy="178" r="6"/>
+    <circle cx="112" cy="204" r="6"/><circle cx="608" cy="204" r="6"/>
+  </g>
+
+  <g font-size="12" fill="#6a6f76" text-anchor="end">
+    <text x="94" y="78">1</text><text x="94" y="104">2</text><text x="94" y="130">3</text>
+    <text x="94" y="156">4</text><text x="94" y="182">5</text><text x="94" y="208">6</text>
+  </g>
+
+  <g font-size="12.5" fill="#4a4f56">
+    <text x="112" y="58" text-anchor="middle">start</text>
+    <text x="608" y="58" text-anchor="middle">finish</text>
+  </g>
+
+  <g stroke="#8b9099" stroke-width="1.2">
+    <line x1="112" y1="228" x2="608" y2="228"/>
+    <line x1="112" y1="222" x2="112" y2="234"/>
+    <line x1="608" y1="222" x2="608" y2="234"/>
+  </g>
+  <rect x="322" y="219" width="76" height="18" fill="#fcfcf8"/>
+  <text x="360" y="233" font-size="12.5" fill="#4a4f56" text-anchor="middle">15 metres</text>
+
+  <text x="112" y="272" font-size="12.5" fill="#4a4f56">a disc each, beside the lanes</text>
+  <g fill="#bcd8f5" stroke="#4b7fc4" stroke-width="1.1">
+    <circle cx="120" cy="296" r="5"/><circle cx="156" cy="296" r="5"/><circle cx="192" cy="296" r="5"/>
+    <circle cx="228" cy="296" r="5"/><circle cx="264" cy="296" r="5"/><circle cx="300" cy="296" r="5"/>
+    <circle cx="336" cy="296" r="5"/><circle cx="372" cy="296" r="5"/><circle cx="408" cy="296" r="5"/>
+    <circle cx="120" cy="322" r="5"/><circle cx="156" cy="322" r="5"/><circle cx="192" cy="322" r="5"/>
+    <circle cx="228" cy="322" r="5"/><circle cx="264" cy="322" r="5"/><circle cx="300" cy="322" r="5"/>
+    <circle cx="336" cy="322" r="5"/><circle cx="372" cy="322" r="5"/><circle cx="408" cy="322" r="5"/>
+  </g>
+
+  <g fill="#8b9099" font-size="11.5">
+    <circle cx="656" cy="292" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+    <text x="670" y="296">cone</text>
+    <circle cx="656" cy="318" r="5" fill="#bcd8f5" stroke="#4b7fc4" stroke-width="1.1"/>
+    <text x="670" y="322">disc</text>
+  </g>
+</svg>
