@@ -28,9 +28,10 @@ Three groups, sorted by ability, rotating between athletic development, skills, 
 1. [plan/session-guide.md](plan/session-guide.md) is how to run the seventeen minutes with 25 boys, and how Tuesday differs from Thursday. Read this one first, and read it again before your first night.
 2. [plan/activities.md](plan/activities.md) is ten themes, one every eight sessions, each filling the seventeen minutes.
 3. [plan/year-plan.md](plan/year-plan.md) is what order the themes go in and why.
-4. [plan/autumn-2026.md](plan/autumn-2026.md) is every session from 25 August to Halloween, night by night.
-5. [plan/equipment.md](plan/equipment.md) is what to buy with the 100 euro.
-6. [knowledge/action-statement-notes.md](knowledge/action-statement-notes.md) is the GAA document explained in ordinary words, for when someone asks why we do it this way.
+4. [plan/autumn-2026.md](plan/autumn-2026.md) is the calendar from 25 August to Halloween, and it links to every night.
+5. [plan/sessions/](plan/sessions/) is one page per night: the layout, the four parts, the progression, and the one thing to coach. This is the page to bring to the pitch.
+6. [plan/equipment.md](plan/equipment.md) is what to buy with the 100 euro.
+7. [knowledge/action-statement-notes.md](knowledge/action-statement-notes.md) is the GAA document explained in ordinary words, for when someone asks why we do it this way.
 
 ## The short version
 
@@ -42,11 +43,11 @@ Nothing heavier than their own body. Slower and correct beats faster and messy. 
 
 ## Assumptions
 
-Written 24 August 2026. Tell me if any of these are wrong and I will change the affected parts.
+Everything in this plan rests on these. If one of them is wrong, the parts that depend on it are wrong with it.
 
 - Two sessions a week, Tuesday and Thursday at 5.30, all year apart from December.
-- A match every Saturday through the season, alternating hurling and football.
+- A match every Saturday, alternating hurling and football.
 - One or two coaches at the athletic development station.
 - The club already owns a pitch, balls and hurls. The 100 euro is for extras only.
 - Groups are sorted by ability and stay roughly the same week to week.
-- The season runs roughly March to September.
+- The season runs all year, January to January. There is no off season to hide a hard block in.
