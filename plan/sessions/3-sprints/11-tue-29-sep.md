@@ -1,13 +1,12 @@
 # Session 11, Tuesday 29 September
 
-Football · Push night. Teach it slowly, then put the pace up · Theme: Sprints · Body shape: the big step · Next match: Hurling, Saturday 3 October
+Football · Push night. Teach it slowly, then put the pace up · Theme: Sprints · Next match: Hurling, Saturday 3 October
 
 The hardest night of the theme. Full speed, full rest, and something to react to.
 
 ## On the ground
 
 - 16 cones: six lanes plus two gates at 12 metres
-- 25 discs
 - Hands free
 
 ![A start line and a gate at either side, 12 metres away](../diagrams/two-gates.svg)
@@ -22,23 +21,18 @@ Set it up before the first group arrives and leave it for all three.
 - Name one line "blue" and one "red". Call a colour: that line runs, the other line chases for five metres.
 - Eight calls. Mix up how long you leave between the call and the last one.
 
-**2 to 8, movement: full speed.**
+**2 to 10, movement: full speed.**
 
 - Six lanes, waves of six, 15 metres flat out. This is the only night in the theme they go flat out.
 - Full rest between waves. A boy should be walking back and breathing easy before he goes again.
 - Four or five waves, no more. Quality goes first when they are tired and there is no point past that.
+- Full speed needs full rest, so this block is mostly walking. That is right, not lazy.
 
-**8 to 13, body shape: the big step.**
-
-- A disc each, hands on the head or a hurl held across the shoulders.
-- Six each leg. Taking the hands away makes the balance harder and shows up the weak side.
-- Most boys have a bad side and have never noticed. Tell them which one theirs is.
-
-**13 to 17, challenge game: two gates.**
+**10 to 17, challenge game: two gates.**
 
 - One gate of cones to the left at 12 metres and one to the right. Boys start on the middle line.
 - He sets off. When he is about three metres in, shout "one" or "two" and he runs through that gate.
-- One boy at a time from each of three starts, so three going at once. Six goes each.
+- One boy at a time from each of three starts, so three going at once. Eight goes each.
 
 ## Coach one thing
 

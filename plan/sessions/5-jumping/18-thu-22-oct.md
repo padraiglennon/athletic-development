@@ -1,6 +1,6 @@
 # Session 18, Thursday 22 October
 
-Football · Ease off night. Match pace, then send them home fresher · Theme: Jumping · Body shape: the landing · Next match: Football, Saturday 24 October
+Football · Ease off night. Match pace, then send them home fresher · Theme: Jumping · Next match: Football, Saturday 24 October
 
 The hurdles come out, low ones only. Match in two days, so the numbers stay small.
 
@@ -8,7 +8,7 @@ The hurdles come out, low ones only. Match in two days, so the numbers stay smal
 
 - 12 cones, six lanes
 - 6 mini hurdles, 15 cm, one in each lane
-- 25 discs, a ball each
+- A ball each
 
 ![A mini hurdle in the middle of each of the six lanes](../diagrams/hurdles.svg)
 
@@ -22,22 +22,17 @@ Set it up before the first group arrives and leave it for all three.
 - Call "over" and "back". They jump the line and land silent each time, no pause.
 - Then call it faster. Then call forwards and backwards over the line instead. Two minutes.
 
-**2 to 8, movement: over the hurdle.**
+**2 to 10, movement: over the hurdle.**
 
 - One mini hurdle in the middle of each lane. Waves of six.
 - Jog in, jump the hurdle with two feet, land on two feet, and hold it for two seconds.
-- Six waves. He walks on only after he has held the landing.
+- Ten waves. He walks on only after he has held the landing.
+- Five of the ten with a ball in hand, because that is what Saturday looks like.
 - If a boy will not take off, take the hurdle away and let him jump a line on the grass.
 
-**8 to 13, body shape: the landing.**
+**10 to 17, finish: three goes each.**
 
-- A disc each. Ten jumps on the spot, landing held for three seconds each.
-- Then five with a ball in hand, because that is what Saturday looks like.
-- Nudge test on the last three.
-
-**13 to 17, finish: three goes each.**
-
-- Three more waves over the hurdle at their own pace.
+- Five more waves over the hurdle at their own pace.
 - Walk them in and ask two boys what makes a landing quiet.
 - Hand them on. Match on Saturday.
 

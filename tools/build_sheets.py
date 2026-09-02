@@ -31,7 +31,7 @@ PHOTO_DIR = os.path.join(SESSION_DIR, "photos")
 BROWSERS = ("google-chrome", "chromium", "chromium-browser", "google-chrome-stable")
 
 CAPTIONS = {
-    "lanes-15m": "Six lanes 15 metres long, a cone at each end, and a disc for every boy",
+    "lanes-15m": "Six lanes 15 metres long, with a cone at each end",
     "stop-line": "Six lanes with the stop line at 10 metres and 5 metres of run off",
     "hurdles": "A mini hurdle in the middle of each of the six lanes",
     "spots": "No lanes tonight, a disc for every boy and nothing to jump over",
@@ -40,6 +40,14 @@ CAPTIONS = {
     "scatter-box": "An open box about 20 by 20 metres with a disc for every boy",
     "two-gates": "A start line and a gate at either side, 12 metres away",
     "move-pace": "Talking pace, and the question that checks it",
+}
+
+# What each photograph has to show. The photograph itself is optional.
+PHOTO_CAPTIONS = {
+    "move-first-step": "The first step goes forward, not up",
+    "move-arms": "The hand goes from the pocket to the chin, on its own side of the body",
+    "move-stop": "Two steps, knees bent, chest up, and held still",
+    "move-landing": "Landing on the front of the feet, knees bent and knees apart",
 }
 
 
@@ -59,9 +67,9 @@ def photos(session):
     """Return (good, bad) photo file names for this session, or (None, None).
 
     A photo is optional. Drop one into plan/sessions/photos and the next build
-    puts it on every sheet that uses that shape. See the README in that folder.
+    puts it on every sheet that teaches that movement. See the README there.
     """
-    key = session.get("figure")
+    key = session.get("photo")
     if not key:
         return None, None
     good = bad = None
@@ -93,12 +101,14 @@ def markdown(session, index):
     good, bad = photos(session)
     out = [f'# Session {session["n"]}, {session["date"]}', ""]
     out.append(f'{session["code"]} · {session["kind"]} · Theme: {theme["name"]} · '
-               f'Body shape: {theme["shape"].lower()} · Next match: {session["match"]}')
+               f'Next match: {session["match"]}')
     out += ["", session["line"], ""]
 
     out += ["## On the ground", ""]
     out += [f"- {item}" for item in session["kit"]]
     out += ["", f'![{CAPTIONS[session["layout"]]}](../diagrams/{session["layout"]}.svg)', ""]
+    if session.get("extra"):
+        out += [f'![{CAPTIONS[session["extra"]]}](../diagrams/{session["extra"]}.svg)', ""]
     out += ["Set it up before the first group arrives and leave it for all three.", ""]
 
     out.append("## The seventeen minutes")
@@ -109,9 +119,9 @@ def markdown(session, index):
 
     if good:
         out += ["## What it should look like", "",
-                f'![{theme["shape"]}](../photos/{good})', ""]
+                f'![{PHOTO_CAPTIONS[session["photo"]]}](../photos/{good})', ""]
         if bad:
-            out += [f'![The same shape done badly](../photos/{bad})', ""]
+            out += [f'![The same movement done badly](../photos/{bad})', ""]
 
     out += ["## Coach one thing", "", f'**{session["coach"]}**', ""]
     out += [f"- {item}" for item in session["watch"]]
@@ -187,7 +197,7 @@ footer { border-top: 1px solid #d2d2ca; margin-top: 0.5em; padding-top: 0.35em; 
 # The sheet must be one A4 page. The build starts at the largest body size and
 # steps down until the page fits, so a new photo or a longer part cannot spill
 # onto a second page.
-SIZES = (11.4, 11.0, 10.6, 10.2, 9.8, 9.4, 9.0, 8.6)
+SIZES = (13.2, 12.8, 12.4, 12.0, 11.6, 11.2, 10.8, 10.4, 10.0, 9.6, 9.2, 8.8)
 
 
 def sheet(session, base):
@@ -196,7 +206,7 @@ def sheet(session, base):
     good, bad = photos(session)
 
     facts = [("Code", session["code"]), ("Theme", theme["name"]),
-             ("Body shape", theme["shape"]), ("Next match", session["match"])]
+             ("Next match", session["match"])]
     chips = f'<span class="fact night"><b>{e(session["kind"].split(".")[0])}</b></span>' + "".join(
         f'<span class="fact"><b>{e(k)}</b> {e(v)}</span>' for k, v in facts)
 
@@ -206,7 +216,11 @@ def sheet(session, base):
         + '</ul><p class="note">Set it up before the first group arrives and leave it for '
           'all three.</p>'
         + f'<figure><img src="../diagrams/{session["layout"]}.svg">'
-          f'<figcaption>{e(CAPTIONS[session["layout"]])}</figcaption></figure></section>'
+          f'<figcaption>{e(CAPTIONS[session["layout"]])}</figcaption></figure>'
+        + (f'<figure><img src="../diagrams/{session["extra"]}.svg">'
+           f'<figcaption>{e(CAPTIONS[session["extra"]])}</figcaption></figure>'
+           if session.get("extra") else "")
+        + "</section>"
     ]
 
     for time, kind, name, lines in session["parts"]:
@@ -224,7 +238,7 @@ def sheet(session, base):
                      f'<figure><img src="../photos/{bad}">'
                      f'<figcaption class="tag no">Not this</figcaption></figure></div>')
         else:
-            shots += f'<figcaption>{e(theme["shape"])}</figcaption></figure>'
+            shots += f'<figcaption>{e(PHOTO_CAPTIONS[session["photo"]])}</figcaption></figure>'
         blocks.append(f'<section class="photo"><h2>What it should look like</h2>{shots}</section>')
 
     blocks.append(
@@ -249,7 +263,7 @@ def sheet(session, base):
 {chr(10).join(blocks)}
 </div>
 <footer><span>{e(theme['aim'])}</span>
-<span>U11 athletic development &middot; 17 minutes &middot; three groups</span></footer>
+<span>U11 athletic development &middot; 17 minutes</span></footer>
 </body></html>
 """
 

@@ -1,16 +1,17 @@
 # Session 6, Thursday 10 September
 
-Football · Ease off night. Match pace, then send them home fresher · Theme: Endurance · Body shape: the plank · Next match: Football, Saturday 12 September
+Football · Ease off night. Match pace, then send them home fresher · Theme: Endurance · Next match: Football, Saturday 12 September
 
 Match in two days, so the running gets shorter and nothing new goes in.
 
 ## On the ground
 
 - 10 cones, one loop about 25 by 12 metres
-- 25 discs inside the loop
 - A ball each
 
 ![One loop about 70 metres round, everybody running the same way](../diagrams/loop-grid.svg)
+
+![Talking pace, and the question that checks it](../diagrams/move-pace.svg)
 
 Set it up before the first group arrives and leave it for all three.
 
@@ -22,20 +23,16 @@ Set it up before the first group arrives and leave it for all three.
 - Call the way they move: "jog", "sideways", "backwards", "skip", "big steps", "jog".
 - Change the call about every fifteen seconds. Keep the pace easy.
 
-**2 to 8, movement: the loop with a ball.**
+**2 to 10, movement: the loop with a ball.**
 
 - Two goes of ninety seconds at talking pace, with a ball in hand, two minutes walking between.
 - Same rule as Tuesday. If he cannot answer you, he is going too hard.
 - Two goes tonight, not three. There is a match on Saturday.
+- Walk the full two minutes between them. Do not cut it short.
 
-**8 to 13, body shape: the plank.**
+**10 to 17, finish: no challenge game.**
 
-- A disc each. Fifteen seconds, rest, three times.
-- On the third one, lift one hand off the ground for five seconds, then the other.
-- If his hips swing when the hand comes up, he was not tight to begin with.
-
-**13 to 17, finish: no challenge game.**
-
+- One last go of sixty seconds at talking pace, then stop.
 - Walk one lap of the loop together, talking.
 - Ask two boys: "Could you still talk on that last run?"
 - Hand them on. They should leave fresher than they arrived.
@@ -46,7 +43,7 @@ Set it up before the first group arrives and leave it for all three.
 
 - Any boy who is quiet and red faced. He is going too hard and will not say so.
 
-**Lashing rain.** The plank becomes the sit, held for twenty seconds.
+**Lashing rain.** No change. Nothing tonight goes on the ground.
 
 ---
 

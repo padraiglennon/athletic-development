@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 350" width="760" height="350" font-family="Helvetica, Arial, sans-serif">
-  <rect x="0.5" y="0.5" width="759" height="349" rx="6" fill="#fcfcf8" stroke="#d8d8d0"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 276" width="760" height="276" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="759" height="275" rx="6" fill="#fcfcf8" stroke="#d8d8d0"/>
   <text x="24" y="34" font-size="17" font-weight="700" fill="#22262b">Stop line at 10 metres, five metres to run off</text>
 
   <g stroke="#c6c6bd" stroke-width="1.5" stroke-dasharray="3 9" stroke-linecap="round">
@@ -47,13 +47,4 @@
     <text x="672" y="188" font-size="12" fill="#4a4f56" text-anchor="middle">facing them</text>
   </g>
 
-  <text x="112" y="284" font-size="12.5" fill="#4a4f56">a disc each, beside the lanes</text>
-  <g fill="#bcd8f5" stroke="#4b7fc4" stroke-width="1.1">
-    <circle cx="120" cy="308" r="5"/><circle cx="156" cy="308" r="5"/><circle cx="192" cy="308" r="5"/>
-    <circle cx="228" cy="308" r="5"/><circle cx="264" cy="308" r="5"/><circle cx="300" cy="308" r="5"/>
-    <circle cx="336" cy="308" r="5"/><circle cx="372" cy="308" r="5"/><circle cx="408" cy="308" r="5"/>
-    <circle cx="120" cy="332" r="5"/><circle cx="156" cy="332" r="5"/><circle cx="192" cy="332" r="5"/>
-    <circle cx="228" cy="332" r="5"/><circle cx="264" cy="332" r="5"/><circle cx="300" cy="332" r="5"/>
-    <circle cx="336" cy="332" r="5"/><circle cx="372" cy="332" r="5"/><circle cx="408" cy="332" r="5"/>
-  </g>
 </svg>

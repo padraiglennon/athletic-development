@@ -1,16 +1,15 @@
 # Session 12, Thursday 1 October
 
-Hurling · Ease off night. Match pace, then send them home fresher · Theme: Sprints · Body shape: the big step · Next match: Hurling, Saturday 3 October
+Hurling · Ease off night. Match pace, then send them home fresher · Theme: Sprints · Next match: Hurling, Saturday 3 October
 
-Last night of the theme, a match in two days, and the big step gets checked.
+Last night of the theme, a match in two days, and nothing new gets taught.
 
 ## On the ground
 
 - 12 cones, six lanes, 15 metres
-- 25 discs beside the lanes
 - A hurl each, 12 bibs
 
-![Six lanes 15 metres long, a cone at each end, and a disc for every boy](../diagrams/lanes-15m.svg)
+![Six lanes 15 metres long, with a cone at each end](../diagrams/lanes-15m.svg)
 
 Set it up before the first group arrives and leave it for all three.
 
@@ -20,31 +19,26 @@ Set it up before the first group arrives and leave it for all three.
 
 - Twelve boys tuck a bib into the back of their shorts so most of it hangs out. The rest have no tail.
 - The boys without a tail chase and try to take one. A boy who takes a tail wears it.
-- A boy who loses his tail does five big steps, then goes hunting for another. Swap nobody, it sorts itself out. Two minutes.
+- A boy who loses his tail does ten fast steps on the spot, then goes hunting for another. Swap nobody, it sorts itself out. Two minutes.
 
-**2 to 9, movement: four sprints with a hurl.**
+**2 to 11, movement: four sprints with a hurl.**
 
-- Four waves of six over 15 metres with a hurl, at whatever pace they like.
+- Six waves of six over 15 metres with a hurl, at whatever pace they like.
 - Full rest between. Walk back, breathe, go again.
 - Stand at the finish line and watch the arms. Say nothing.
 
-**9 to 15, body shape: the big step, checked.**
+**11 to 17, finish: free sprints, then in.**
 
-- They should drop into it without a demonstration. Find out whether they can.
-- Say only "big step, left leg" and count to five. Then the right.
-- Five each leg. Then ask one boy to show the group and to say what to watch for.
-
-**15 to 17, finish: name the shape.**
-
-- Walk them in.
-- Ask three boys: "What is the shape called, and what falls in if you do it badly?"
+- Four free waves at whatever pace each boy likes.
+- Walk them in with two minutes left.
+- Ask three boys: "What do your arms do when you run fast?"
 - Tell them the theme changes on Tuesday and it is stopping.
 
 ## Coach one thing
 
-**Nothing. Find out who knows the shape.**
+**Nothing. Find out whose arms have changed since Tuesday.**
 
-- Any boy whose front knee still falls in. Note his name for the stopping theme, because it is the same fault.
+- Any boy whose knees roll inwards when he runs. Note his name for the stopping theme, because it is the same fault.
 
 **Lashing rain.** No change.
 

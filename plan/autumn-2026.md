@@ -33,7 +33,9 @@ This page is the calendar and the reason the themes are in this order. The theme
 | 19 | [Tue 27 Oct](sessions/5-jumping/19-tue-27-oct.md) | Football | Hurling, 31 Oct | Jumping |
 | 20 | [Thu 29 Oct](sessions/5-jumping/20-thu-29-oct.md) | Hurling | Hurling, 31 Oct | Jumping |
 
-Five themes finish exactly on the Thursday before Halloween. What comes after Halloween is in the [year plan](year-plan.md).
+Five themes finish exactly on the Thursday before Halloween. What comes after Halloween is in the [year plan](year-plan.md). The body shapes are a theme of their own and they start in November.
+
+Every night has three parts: a wake up game of 2 minutes, a movement of 8 minutes, and a challenge game of 7 minutes.
 
 ## The shape of a four night theme
 
@@ -44,7 +46,7 @@ Four nights is two turns of the fixture cycle, so every theme gets two hurling n
 | 1, a Tuesday | Teach it from nothing. Say every line out loud. Slow. |
 | 2, a Thursday | The same thing at match pace, with a ball or a hurl. Nothing new. |
 | 3, a Tuesday | The hardest night of the theme. This is where the pace goes up. |
-| 4, a Thursday | Watch, and find out who can name the body shape without a demonstration. |
+| 4, a Thursday | Watch, and find out who can do it without being told. |
 
 Every Tuesday is a push night. Three days after the last match, four days before the next one, so this is where the teaching happens and where the pace goes up.
 
@@ -54,7 +56,7 @@ Nothing new is ever taught on a Thursday.
 
 ## The five themes and why they are in this order
 
-**Sessions 1 to 4, starting.** Easy to run, instant, and it gets them used to the station. The body shape is the sit, which is the shape every other theme leans on.
+**Sessions 1 to 4, starting.** Easy to run, instant, and it gets them used to the station. Four starts, and the first step going forward instead of up.
 
 **Sessions 5 to 8, endurance.** This is not fitness work. The match rotation makes them fit. These four nights teach one pace and how to tell when they are above it, using the talking test. It goes early because the evenings are still bright enough for a big loop.
 
@@ -72,4 +74,4 @@ Nothing new is ever taught on a Thursday.
 
 **It is lashing rain.** Every run sheet has a wet weather line at the bottom. Follow it. The short version: nothing lies or kneels on the ground, and nothing stops hard on wet grass.
 
-**A group turns up late.** Cut the wake up game. Never cut the body shapes, because that is the part they get nowhere else all week.
+**A group turns up late.** Cut the wake up game and give the time to the movement, because that is the part they get nowhere else all week.

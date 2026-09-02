@@ -1,8 +1,8 @@
 # Session 16, Thursday 15 October
 
-Hurling · Ease off night. Match pace, then send them home fresher · Theme: Stopping · Body shape: the bow · Next match: Hurling, Saturday 17 October
+Hurling · Ease off night. Match pace, then send them home fresher · Theme: Stopping · Next match: Hurling, Saturday 17 October
 
-Last night of the theme, a match in two days, and the bow gets checked.
+Last night of the theme, a match in two days, and every boy picks his own speed.
 
 ## On the ground
 
@@ -19,30 +19,25 @@ Set it up before the first group arrives and leave it for all three.
 **0 to 2, wake up game: musical discs.**
 
 - Scatter the discs through the grid, one for each boy. They jog between them without touching one.
-- Shout "bow". Every boy gets to the nearest free disc, stands on it, and holds the bow until you say go.
-- Seven goes. Take one disc away each time so somebody is always left out and does five sits.
+- Shout "stop". Every boy gets to the nearest free disc, stops on it in two steps, and holds still until you say go.
+- Seven goes. Take one disc away each time so somebody is always left out and runs one lap of the grid.
 
-**2 to 9, movement: stops with a hurl.**
+**2 to 11, movement: stops with a hurl.**
 
-- Six waves at match pace with a hurl in hand.
+- Eight waves at match pace with a hurl in hand.
 - Then two free goes where each boy runs in at whatever speed he trusts himself to stop from.
 - That choice tells you more about what he learned than any of the waves will.
 
-**9 to 15, body shape: the bow, checked.**
+**11 to 17, finish: free stops, then in.**
 
-- They should drop into it without a demonstration. Find out whether they can.
-- Say only "bow" and count to five. Six times across the six minutes.
-- Then the hurl along the back on the last two, and let them check each other.
-
-**15 to 17, finish: name the shape.**
-
-- Walk them in.
-- Ask three boys: "What is the shape called, and when do you use it in a match?"
+- Four free waves. Each boy runs in at the speed he trusts himself to stop from.
+- Walk them in with two minutes left.
+- Ask three boys: "When do you use a two step stop in a match?"
 - Tell them the theme changes on Tuesday and it is jumping.
 
 ## Coach one thing
 
-**Nothing. Find out who knows the shape.**
+**Nothing. Find out who can stop at the speed he chooses.**
 
 - Any boy still stopping upright after four nights. He needs a quiet word on his own, not in front of the group.
 

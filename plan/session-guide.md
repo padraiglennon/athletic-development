@@ -12,7 +12,7 @@ The session already covers the three things the GAA framework asks for, without 
 | --- | --- |
 | Skills | The hurling and football itself |
 | Match | Fitness. Boys get fit by playing, which is exactly what the GAA document recommends |
-| Athletic development | How they move, and how they hold themselves. Starting, stopping, turning, landing, and body shapes |
+| Athletic development | How they move, and how they hold themselves. Starting, stopping, turning, sprinting, jumping and landing |
 
 So the athletic development station does not need to do fitness. No laps for the sake of laps, and nobody is ever run into the ground. The match station has that covered. Our seventeen minutes are for movement quality.
 
@@ -48,7 +48,7 @@ So each week: Tuesday teach one code and push it, Thursday sharpen the other cod
 
 Same theme both nights. What changes is what is in their hands.
 
-- **Hurling night.** Hurl in hand for the movement work. It changes how they run and how they balance, and they need to be good at moving with it. Body shapes can use the hurl across the shoulders or overhead.
+- **Hurling night.** Hurl in hand for the movement work. It changes how they run and how they balance, and they need to be good at moving with it. The hurl goes in the running and in the stopping, not on the ground.
 - **Football night.** Ball in hand, or hands free. Football asks for more open running and more hard stopping over longer distances, so use the full 15 metres.
 
 The theme does not change between codes. Stopping is stopping. A boy who can stop properly can stop with a hurl in his hand once he has practised it a few times, and every code gets two nights a fortnight to do that.
@@ -61,7 +61,7 @@ These matter more than the activities do. A brilliant drill run badly with 25 bo
 2. **Six lanes, not one.** If more than four boys are waiting in any line, you need another lane. Boys standing still are boys learning nothing.
 3. **Under thirty seconds of talking.** Show it once, then go. Explain the next bit while they are already moving.
 4. **Coach three boys properly, not 25 badly.** Pick three each round, fix one thing each, move on. Over three groups and a season that adds up.
-5. **Every boy has his own spot.** A marker disc each for the body shape work. It stops the shuffling and the arguing.
+5. **Every boy has his own spot when a game needs one.** A marker disc each. It stops the shuffling and the arguing.
 6. **Same content for every group, different difficulty.** The groups are already sorted by ability, so the top group gets it faster and with more to think about, and the bottom group gets more space and more time. You do not need three different plans.
 7. **Have the next thing already on the ground.** Every changeover you have to build is a minute you do not get back.
 
@@ -70,13 +70,12 @@ These matter more than the activities do. A brilliant drill run badly with 25 bo
 | Time | What | Everyone moving? |
 | --- | --- | --- |
 | 0 to 2 | Wake up game | Yes, all 25 |
-| 2 to 8 | Movement of the month, across the lanes | In waves of six |
-| 8 to 13 | Body shape of the month, everyone on their own spot | Yes, all 25 |
-| 13 to 17 | Challenge game, using the movement | Yes, all 25 |
+| 2 to 10 | Movement of the theme, across the lanes | In waves of six |
+| 10 to 17 | Challenge game, using the movement | Yes, all 25 |
 
-Three of the four parts have everybody moving at once. That is deliberate.
+Every part has everybody moving. That is deliberate.
 
-If you are running behind, cut the wake up game. Never cut the body shapes, because that is the part they get nowhere else in the session.
+If you are running behind, cut the wake up game and give the time to the movement. The movement is the part they get nowhere else in the session.
 
 ## The rules that never change
 
@@ -86,14 +85,14 @@ These used to be printed on all twenty run sheets. They are the same every night
 2. The boy at the front of each lane runs. Six lanes, so six boys go together on the whistle. That is what a wave means on a run sheet.
 3. Nobody starts before the whistle, and one coach whistles for all six lanes.
 4. After his run he jogs back up the outside of his lane, never down the middle of one.
-5. Every boy stays on his own disc for the body shapes.
+5. Every boy stays on his own disc in a game that gives him one.
 6. Same station for all three groups. Set it up once, run it three times.
 
 ## When it is not working
 
 Also the same every night.
 
-- **Running late.** Cut the wake up game. Never cut the body shapes.
+- **Running late.** Cut the wake up game. Never cut the movement.
 - **More than four boys waiting in a lane.** Add a seventh lane. Boys in a queue learn nothing.
 - **It looks bad.** Go back a step and slow it down. Slower and correct beats faster and messy.
 - **Numbers are uneven.** Some weeks a group is 30. Add a lane and carry on.
@@ -114,11 +113,10 @@ One layout, used all night.
   6   o . . . . . . . . . . . . . . . . . . o
       |<------------ 15 metres ------------>|
 
-   plus 25 discs scattered in the area beside it,
-   one per boy, for the body shape work
+   plus 25 discs when the night's kit list asks for them
 ```
 
-Twelve cones for the lanes, 25 discs for the spots. Six lanes means four boys per lane, so a boy goes, jogs back, and is up again within about twenty seconds. That is the right amount of rest at this age and it stops them getting bored.
+Twelve cones for the lanes. The discs are only for the nights that use them, and the run sheet says so. Six lanes means four boys per lane, so a boy goes, jogs back, and is up again within about twenty seconds. That is the right amount of rest at this age and it stops them getting bored.
 
 ## The warm-up for all 80
 
@@ -128,7 +126,7 @@ The 5 to 8 minutes at the start happens both nights, and it is the only time eve
 | --- | --- |
 | 0 to 2 | Free running inside the box while the coach calls out how to move. Jog, sideways, backwards, skip, big steps, stop dead |
 | 2 to 4 | Tag. Four or five taggers in bibs, everyone else running. Change taggers twice |
-| 4 to 6 | Shapes on the shout. Coach calls a shape, everyone does it where they stand, hold for five seconds |
+| 4 to 6 | Stop on the shout. Coach calls go and stop. On stop every boy stops in two steps and holds still |
 | 6 to 8 | Partner races over ten metres. Different start each time. Sitting, lying, facing backwards |
 
 That is a real athletic development session in itself, and every boy gets it every week.
@@ -159,7 +157,7 @@ Every night in the autumn has its own sheet in [sessions](sessions/), one folder
 - The `.md` file is the one to read on a phone or in the repository.
 - The `.pdf` file is one A4 page in two columns. Print it. That is the page to bring to the pitch.
 
-Each sheet carries two pictures: the layout to put on the ground, and the movement or the body shape drawn twice, done well beside the usual fault. A coach who has never run this station should be able to work from the pictures alone.
+Each sheet carries the layout to put on the ground, and a card for each of the three parts. A coach who has never run this station should be able to work from the sheet alone.
 
 Both files are built from `tools/sessions.py`. Change a session there and run `python3 tools/build_sheets.py`. Do not edit the `.md` or the `.pdf` by hand, because the next build will write over it.
 

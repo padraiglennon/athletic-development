@@ -8,25 +8,24 @@ one, which is what happens today.
 
 | File | What to photograph | Sheets that use it |
 | --- | --- | --- |
-| `shape-sit.jpg` | The sit, held at the bottom | 1, 2, 3, 4 |
-| `shape-plank.jpg` | The plank, from the side | 6, 7 |
-| `shape-big-step.jpg` | The big step, from the front | 10, 12 |
-| `shape-bow.jpg` | The bow, from the side | 14, 16 |
-| `shape-landing.jpg` | A landing, held still | 17, 18, 19, 20 |
-| `move-first-step.jpg` | The first step out of a start | 1, 3 |
-| `move-stop.jpg` | A boy stopping on a line | 13, 15 |
-| `move-arms.jpg` | Arms while running, from the front | 9, 11 |
+| `move-first-step.jpg` | The first step out of a start, from the side | 1, 2, 3, 4 |
+| `move-arms.jpg` | The arms while running, from the front | 9, 10, 11, 12 |
+| `move-stop.jpg` | A boy stopped on a line, from the side | 13, 14, 15, 16 |
+| `move-landing.jpg` | A landing held still, from the front | 17, 18, 19, 20 |
+
+The endurance sheets use no photo. Pace is a question you ask, not a picture.
 
 A second file with `-bad` before the extension is optional. If it is there the
 sheet shows both side by side, one marked "Like this" and one marked "Not this".
-For example `shape-sit.jpg` and `shape-sit-bad.jpg`.
+For example `move-stop.jpg` and `move-stop-bad.jpg`.
 
 ## Taking them
 
 - A phone is fine. Landscape, and fill the frame with the boy.
 - Photograph a coach or one boy, not the group. One person, plain background.
-- Shoot the shape from the side, except the sit, the big step and the landing,
-  which are shot from the front because the fault is the knees falling in.
+- Shoot the first step and the stop from the side, because the fault is the body
+  position. Shoot the arms and the landing from the front, because the fault is
+  the arms crossing the body and the knees falling in.
 - Get written permission from a parent before photographing any boy, and keep
   the photos in this repository only.
 

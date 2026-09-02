@@ -42,7 +42,7 @@ Nothing on the list above is bought for one theme only, and no theme needs anyth
 
 | Theme | The only thing worth checking you have |
 | --- | --- |
-| Starting | 12 cones and 25 discs |
+| Starting | 12 cones |
 | Endurance | 10 cones for the loop, and 12 tennis balls for the wake up game |
 | Sprints | 16 cones, because two gates go out as well as the lanes |
 | Stopping | 18 cones, because every lane needs a stop line as well as two ends |

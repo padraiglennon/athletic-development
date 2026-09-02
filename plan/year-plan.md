@@ -52,7 +52,9 @@ Four sessions is exactly two turns of the fixture cycle, so every theme gets two
 | 21 onwards | 3 Nov 2026 onwards | Not planned yet | See below |
 
 
-**From session 21 onwards this page is out of date.** The move to four session themes was agreed after the autumn was already written, so only the twenty nights to Halloween have been reworked. The remaining themes in the [activity bank](activities.md) are turning, sidestepping, backwards and sideways, doing it with a hurl or a ball, joining it up, and reacting. At four sessions each that is another twenty four nights, which does not fill the year on its own, so most themes will need a second run. Deciding the order of that is the next job.
+**From session 21 onwards this page is out of date.** The move to four session themes was agreed after the autumn was already written, so only the twenty nights to Halloween have been reworked. **November is the body shapes theme.** The shapes used to be five minutes of every night. They are now a theme of their own and they run first after Halloween. The seven shapes are in the [activity bank](activities.md).
+
+The remaining themes in the [activity bank](activities.md) are turning, sidestepping, backwards and sideways, doing it with a hurl or a ball, joining it up, and reacting. At four sessions each that is another twenty four nights, which does not fill the year on its own, so most themes will need a second run. Deciding the order of that is the next job.
 
 Stopping and jumping are the two that reduce injuries. If the year falls apart and you only get a few themes done properly, do those two, and do them again.
 

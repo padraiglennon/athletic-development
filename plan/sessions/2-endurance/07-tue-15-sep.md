@@ -1,16 +1,17 @@
 # Session 7, Tuesday 15 September
 
-Football · Push night. Teach it slowly, then put the pace up · Theme: Endurance · Body shape: the plank · Next match: Hurling, Saturday 19 September
+Football · Push night. Teach it slowly, then put the pace up · Theme: Endurance · Next match: Hurling, Saturday 19 September
 
 The hardest night of the theme. Change of direction goes in on top of the running.
 
 ## On the ground
 
 - 24 cones, six lanes with turns at 5, 10 and 15 metres
-- 25 discs
 - 12 tennis balls, 4 bibs
 
 ![Six lanes with turn cones at 5, 10 and 15 metres](../diagrams/shuttle-grid.svg)
+
+![Talking pace, and the question that checks it](../diagrams/move-pace.svg)
 
 Set it up before the first group arrives and leave it for all three.
 
@@ -22,24 +23,19 @@ Set it up before the first group arrives and leave it for all three.
 - One boy from each team runs at a time, takes one ball, runs back, and the next boy goes.
 - When the middle is empty they may take from another team's corner. Two minutes, no winner called.
 
-**2 to 8, movement: shuttles.**
+**2 to 10, movement: shuttles.**
 
 - Six lanes with a cone at 5, 10 and 15 metres. Four boys to a lane.
 - Call a distance. The front boy runs out to that cone, touches it, and runs back at the same speed.
-- Keep it continuous for sixty seconds, then thirty seconds rest. Four goes.
+- Keep it continuous for sixty seconds, then thirty seconds rest. Six goes.
 - Same pace out and back. A boy who sprints out and walks back has missed the point.
 
-**8 to 13, body shape: the plank.**
-
-- A disc each. Twenty seconds, rest, three times.
-- Then the side plank, on one elbow, ten seconds each side.
-- Backside down, not up. That is the only thing to fix.
-
-**13 to 17, challenge game: team relay.**
+**10 to 17, challenge game: team relay.**
 
 - Five teams of five. Each boy runs one lap of the loop and tags the next.
-- Every boy runs twice. Call the group lap total from session 5 and see if they beat it.
+- Every boy runs three times. Call the group lap total from session 5 and see if they beat it.
 - The teams are mixed up every round, so nobody is stuck on a losing team.
+- Walk a lap together at the end while you tell them the total.
 
 ## Coach one thing
 
