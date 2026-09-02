@@ -1,10 +1,12 @@
 # The activity bank
 
-Ten themes. One every eight sessions. Each one fills the seventeen minutes and works with 25 boys.
+A bank of themes. A theme lasts four sessions: two Tuesdays and two Thursdays. What order the themes run in is in the [year plan](year-plan.md), and the autumn order is in [autumn-2026.md](autumn-2026.md).
 
 Every theme has the same four parts, so once the boys know the shape of the station you stop having to explain it: a wake up game, a movement, a body shape, and a challenge game.
 
-A theme lasts eight sessions, four hurling nights and four football nights. Tuesday is for teaching it slowly and pushing it, Thursday is for using it at speed and easing off before the match. The activity is the same both nights, the pace is not. See [Tuesday and Thursday](session-guide.md#tuesday-and-thursday).
+Four sessions is two turns of the fixture cycle, so every theme gets two hurling nights and two football nights. Tuesday is for teaching it slowly and pushing it. Thursday is for using it at speed and easing off before the match. The activity is the same both nights. The pace is not. See [Tuesday and Thursday](session-guide.md#tuesday-and-thursday).
+
+The wake up game is the one part that changes every night. Twenty different games are written out in the autumn run sheets in [sessions](sessions/). Use them again in any theme.
 
 Kit is from the [kit list](equipment.md). The grid is in the [session guide](session-guide.md).
 
@@ -26,6 +28,8 @@ These are the same all year. The boys should end up able to name them and do the
 
 ## Theme 1: starting
 
+Four run sheets: [sessions 1 to 4](sessions/1-starting/).
+
 **Wake up game, 2 minutes.** Everyone jogs in the area. On the shout, sprint to the nearest cone and stop. Repeat.
 
 **Movement, 6 minutes.** First step. Waves of six, 15 metres. Every run starts differently. Standing still, from a jog, sitting on the ground, lying on their front, facing backwards, on one knee. Six runs, six different starts.
@@ -41,7 +45,51 @@ These are the same all year. The boys should end up able to name them and do the
 
 ---
 
-## Theme 2: stopping
+## Theme 2: endurance
+
+Four run sheets: [sessions 5 to 8](sessions/2-endurance/).
+
+This is not fitness work and it is not a race. The match rotation makes them fit. This theme teaches one thing: a pace a boy can hold, and how to tell when he is above it.
+
+**Wake up game, 2 minutes.** Everybody moving inside a loop, and nobody stops for the whole two minutes.
+
+**Movement, 6 minutes.** The loop, about 70 metres round, all 25 running the same way at once. Ninety seconds on, thirty seconds walking, two or three goes. Slower boys cut the corners inside so nobody gets lapped.
+
+**Body shape, 5 minutes.** The plank. Own disc, fifteen to twenty seconds, three times. Knees down for anyone who sags.
+
+**Challenge game, 4 minutes.** Two minutes of running with every boy counting his own laps. The group adds them up, and that number is the target for the next Tuesday.
+
+**The talking test.** Run beside a boy and ask him his name and his club. A full sentence means he is too easy. Short words mean he is in the right band. No answer means he is too hard.
+
+**Watch for.** Boys who sprint the first lap and walk the third. That is the whole fault of this theme.
+
+**Easier.** Sixty seconds instead of ninety, and a shorter loop.
+**Harder.** Shuttles out to a called cone at 5, 10 or 15 metres, continuous for sixty seconds.
+
+---
+
+## Theme 3: sprints
+
+Four run sheets: [sessions 9 to 12](sessions/3-sprints/).
+
+**Wake up game, 2 minutes.** Everybody jogging, and a short sprint on every shout.
+
+**Movement, 6 minutes.** Running tall. Waves of six, 15 metres at about three quarter pace for the first two nights and flat out on the third. Arms driving front to back, not across the body. Head still. Tall through the middle.
+
+**Body shape, 5 minutes.** The big step. Own disc, step forward, back knee down, stand up. Eight each leg, slowly.
+
+**Challenge game, 4 minutes.** Pair races over 15 metres. Later in the theme, two gates 12 metres away and the coach calls which gate as the boy is already running.
+
+**Watch for.** Arms swinging across the chest, and heads rolling side to side.
+
+**Easier.** Shorter distance, slower, and no gates.
+**Harder.** Run with a hurl in one hand and keep the other arm working properly.
+
+---
+
+## Theme 4: stopping
+
+Four run sheets: [sessions 13 to 16](sessions/4-stopping/).
 
 The most important theme in the whole bank. Most juvenile injuries come from stopping badly, and nobody teaches it.
 
@@ -60,7 +108,9 @@ The most important theme in the whole bank. Most juvenile injuries come from sto
 
 ---
 
-## Theme 3: landing
+## Theme 5: jumping
+
+Four run sheets: [sessions 17 to 20](sessions/5-jumping/).
 
 **Wake up game, 2 minutes.** Bunny hops around the grid, silent landings only. Anyone the coach hears is out for ten seconds.
 
@@ -77,7 +127,7 @@ The most important theme in the whole bank. Most juvenile injuries come from sto
 
 ---
 
-## Theme 4: turning
+## Theme 6: turning
 
 **Wake up game, 2 minutes.** Follow the leader in threes around the grid, leader changes direction whenever he likes.
 
@@ -94,24 +144,7 @@ The most important theme in the whole bank. Most juvenile injuries come from sto
 
 ---
 
-## Theme 5: running tall
-
-**Wake up game, 2 minutes.** Skipping across the grid, knees up, arms working.
-
-**Movement, 6 minutes.** Running tall. Waves of six, 20 metres, at about three quarter pace. This is not a race. Arms driving front to back, not across the body. Head still. Tall through the middle.
-
-**Body shape, 5 minutes.** The plank. Own disc, hold for fifteen seconds, rest, three times. Then the same but lifting one hand off the ground.
-
-**Challenge game, 4 minutes.** Relay in teams of five, 20 metres each. Now they will run properly fast, which is the point of doing the technique first.
-
-**Watch for.** Arms swinging across the chest, and heads rolling side to side.
-
-**Easier.** Shorter distance, slower.
-**Harder.** Run with a hurl in one hand and keep the other arm working properly.
-
----
-
-## Theme 6: sidestepping
+## Theme 7: sidestepping
 
 **Wake up game, 2 minutes.** Tag in a small square, no running through the middle allowed, so they have to go round and change direction.
 
@@ -128,7 +161,7 @@ The most important theme in the whole bank. Most juvenile injuries come from sto
 
 ---
 
-## Theme 7: backwards and sideways
+## Theme 8: backwards and sideways
 
 **Wake up game, 2 minutes.** Everyone moving in the grid. Coach calls forwards, backwards, sideways left, sideways right.
 
@@ -145,11 +178,11 @@ The most important theme in the whole bank. Most juvenile injuries come from sto
 
 ---
 
-## Theme 8: doing it with a hurl or a ball
+## Theme 9: doing it with a hurl or a ball
 
 **Wake up game, 2 minutes.** Jog with a ball in hand, coach calls a body shape, they put the ball down and do it.
 
-**Movement, 6 minutes.** Everything from themes 1 to 7, but with a hurl or a ball in hand. Start with a ball, stop with a ball, turn with a hurl. This is where the station connects to the skills station.
+**Movement, 6 minutes.** Everything from themes 1 to 8, but with a hurl or a ball in hand. Start with a ball, stop with a ball, turn with a hurl. This is where the station connects to the skills station.
 
 **Body shape, 5 minutes.** The sit, on one leg, holding a hurl across the shoulders. Five each leg, holding the bottom position.
 
@@ -162,7 +195,7 @@ The most important theme in the whole bank. Most juvenile injuries come from sto
 
 ---
 
-## Theme 9: joining it up
+## Theme 10: joining it up
 
 **Wake up game, 2 minutes.** Free running with the coach calling stop, turn, go.
 
@@ -179,7 +212,7 @@ The most important theme in the whole bank. Most juvenile injuries come from sto
 
 ---
 
-## Theme 10: reacting
+## Theme 11: reacting
 
 The last theme of the year and the closest to a real match.
 
@@ -200,7 +233,7 @@ The last theme of the year and the closest to a real match.
 
 ## The gauntlet
 
-From the pack the club sports director sent, originally an LTAD Network card. See [the notes on it](../knowledge/sample-exercises-notes.md). It replaces the challenge game in themes 6, 7 and 10, and it is worth the swap.
+From the pack the club sports director sent, originally an LTAD Network card. See [the notes on it](../knowledge/sample-exercises-notes.md). It replaces the challenge game in themes 7, 8 and 11, and it is worth the swap.
 
 An attacker has to get from one end of a channel to the other without being tagged. Defenders stand on lines across the channel and may only move sideways along their own line.
 

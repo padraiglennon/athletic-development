@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 744 344" width="744" height="344" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="743" height="343" rx="6" fill="#fcfcf8" stroke="#d8d8d0"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#22262b">Six lanes, turn cones at 5, 10 and 15 metres</text>
+  <text x="24" y="56" font-size="12.5" fill="#6a6f76">out to the called cone, touch it, and back</text>
+  <line x1="118" y1="94" x2="604" y2="94" stroke="#c6c6bd" stroke-width="1.5" stroke-dasharray="3 9" stroke-linecap="round"/>
+  <circle cx="118" cy="94" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="280" cy="94" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="442" cy="94" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="604" cy="94" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <text x="98" y="98" font-size="12" fill="#6a6f76" text-anchor="end" font-weight="400">1</text>
+  <line x1="118" y1="124" x2="604" y2="124" stroke="#c6c6bd" stroke-width="1.5" stroke-dasharray="3 9" stroke-linecap="round"/>
+  <circle cx="118" cy="124" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="280" cy="124" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="442" cy="124" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="604" cy="124" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <text x="98" y="128" font-size="12" fill="#6a6f76" text-anchor="end" font-weight="400">2</text>
+  <line x1="118" y1="154" x2="604" y2="154" stroke="#c6c6bd" stroke-width="1.5" stroke-dasharray="3 9" stroke-linecap="round"/>
+  <circle cx="118" cy="154" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="280" cy="154" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="442" cy="154" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="604" cy="154" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <text x="98" y="158" font-size="12" fill="#6a6f76" text-anchor="end" font-weight="400">3</text>
+  <line x1="118" y1="184" x2="604" y2="184" stroke="#c6c6bd" stroke-width="1.5" stroke-dasharray="3 9" stroke-linecap="round"/>
+  <circle cx="118" cy="184" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="280" cy="184" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="442" cy="184" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="604" cy="184" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <text x="98" y="188" font-size="12" fill="#6a6f76" text-anchor="end" font-weight="400">4</text>
+  <line x1="118" y1="214" x2="604" y2="214" stroke="#c6c6bd" stroke-width="1.5" stroke-dasharray="3 9" stroke-linecap="round"/>
+  <circle cx="118" cy="214" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="280" cy="214" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="442" cy="214" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="604" cy="214" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <text x="98" y="218" font-size="12" fill="#6a6f76" text-anchor="end" font-weight="400">5</text>
+  <line x1="118" y1="244" x2="604" y2="244" stroke="#c6c6bd" stroke-width="1.5" stroke-dasharray="3 9" stroke-linecap="round"/>
+  <circle cx="118" cy="244" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="280" cy="244" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="442" cy="244" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="604" cy="244" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <text x="98" y="248" font-size="12" fill="#6a6f76" text-anchor="end" font-weight="400">6</text>
+  <text x="118" y="82" font-size="12.5" fill="#4a4f56" text-anchor="middle" font-weight="400">start</text>
+  <text x="280" y="82" font-size="12.5" fill="#4a4f56" text-anchor="middle" font-weight="400">5 m</text>
+  <text x="442" y="82" font-size="12.5" fill="#4a4f56" text-anchor="middle" font-weight="400">10 m</text>
+  <text x="604" y="82" font-size="12.5" fill="#4a4f56" text-anchor="middle" font-weight="400">15 m</text>
+  <g stroke="#e07a1f" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M 140 292 L 258 292"/><path d="M 249.8 295.7 L 258 292 L 249.8 288.3"/></g>
+  <g stroke="#e07a1f" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M 258 312 L 140 312"/><path d="M 148.2 308.3 L 140 312 L 148.2 315.7"/></g>
+  <text x="300" y="316" font-size="13" fill="#4a4f56" text-anchor="start" font-weight="400">out on the shout, back at the same speed</text>
+</svg>

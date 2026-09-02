@@ -26,20 +26,32 @@ Three groups, sorted by ability, rotating between athletic development, skills, 
 ## Read these
 
 1. [plan/session-guide.md](plan/session-guide.md) is how to run the seventeen minutes with 25 boys, and how Tuesday differs from Thursday. Read this one first, and read it again before your first night.
-2. [plan/activities.md](plan/activities.md) is ten themes, one every eight sessions, each filling the seventeen minutes.
+2. [plan/activities.md](plan/activities.md) is the bank of themes, one every four sessions, each filling the seventeen minutes.
 3. [plan/year-plan.md](plan/year-plan.md) is what order the themes go in and why.
 4. [plan/autumn-2026.md](plan/autumn-2026.md) is the calendar from 25 August to Halloween, and it links to every night.
-5. [plan/sessions/](plan/sessions/) is one page per night, in a folder per theme: the layout, the four parts, the progression, and the one thing to coach. This is the page to bring to the pitch.
+5. [plan/sessions/](plan/sessions/) is one sheet per night, in a folder per theme. Print the `.html` file: it is a single A4 page in two columns with a picture of the layout and a picture of the movement done well beside the same movement done badly. This is the page to bring to the pitch.
 6. [plan/equipment.md](plan/equipment.md) is what to buy with the 100 euro.
 7. [knowledge/action-statement-notes.md](knowledge/action-statement-notes.md) is the GAA document explained in ordinary words, for when someone asks why we do it this way.
 
 ## The short version
 
-The match rotation makes them fit. The skills rotation teaches them hurling and football. Our seventeen minutes teach them to start, stop, turn and land without hurting themselves, and to hold seven body shapes.
+The match rotation makes them fit. The skills rotation teaches them hurling and football. Our seventeen minutes teach them to start, stop, sprint and land without hurting themselves, and to hold seven body shapes.
+
+A theme is four sessions: two Tuesdays and two Thursdays. The autumn runs starting, endurance, sprints, stopping, jumping, and finishes on the Thursday before Halloween.
 
 Tuesday teaches it slowly and is the night to push. Thursday uses it at speed, with a hurl or a ball in hand, and eases off, because there is a match two days later every week.
 
 Nothing heavier than their own body. Slower and correct beats faster and messy. Nobody gets tested, measured or ranked.
+
+## Building the run sheets
+
+The twenty run sheets are generated, not written by hand. The content of every night is in [tools/sessions.py](tools/sessions.py) and the diagrams are drawn by [tools/figures.py](tools/figures.py) and [tools/layouts.py](tools/layouts.py).
+
+```
+python3 tools/build_sheets.py
+```
+
+That writes the `.md` page and the A4 `.html` sheet for all twenty nights, and redraws every diagram. It needs Python 3 and nothing else. Editing a `.md` or an `.html` by hand does not last, because the next build writes over it.
 
 ## Assumptions
 

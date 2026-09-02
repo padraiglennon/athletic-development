@@ -36,6 +36,20 @@ Most clubs do. If so, spend the money on these instead:
 
 **A stopwatch.** We are not timing anyone.
 
+## What the autumn themes need
+
+Nothing on the list above is bought for one theme only, and no theme needs anything that is not on it.
+
+| Theme | The only thing worth checking you have |
+| --- | --- |
+| Starting | 12 cones and 25 discs |
+| Endurance | 10 cones for the loop, and 12 tennis balls for the wake up game |
+| Sprints | 16 cones, because two gates go out as well as the lanes |
+| Stopping | 18 cones, because every lane needs a stop line as well as two ends |
+| Jumping | 6 mini hurdles, 15 cm. Low ones only, and nothing taller ever |
+
+Bibs are used as tags and as tails. Twelve is enough, because the tail game runs with twelve boys wearing one and the rest chasing.
+
 ## Setting up
 
 Put everything down before the boys arrive, and leave it there for all three groups. You set the station up once and run it three times. That is worth about five minutes of coaching time per group, which at this station is a third of what you have.

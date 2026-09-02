@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 744 352" width="744" height="352" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="743" height="351" rx="6" fill="#fcfcf8" stroke="#d8d8d0"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#22262b">Two gates, 12 metres away</text>
+  <text x="24" y="56" font-size="12.5" fill="#6a6f76">he does not know which gate until he is running</text>
+  <line x1="140" y1="94" x2="140" y2="300" stroke="#8b9099" stroke-width="1.6" stroke-dasharray="6 6" stroke-linecap="round"/>
+  <text x="140" y="82" font-size="12.5" fill="#4a4f56" text-anchor="middle" font-weight="400">start</text>
+  <circle cx="140" cy="110" r="6" fill="#bcd8f5" stroke="#4b7fc4" stroke-width="1.2"/>
+  <circle cx="140" cy="146" r="6" fill="#bcd8f5" stroke="#4b7fc4" stroke-width="1.2"/>
+  <circle cx="140" cy="182" r="6" fill="#bcd8f5" stroke="#4b7fc4" stroke-width="1.2"/>
+  <circle cx="140" cy="218" r="6" fill="#bcd8f5" stroke="#4b7fc4" stroke-width="1.2"/>
+  <circle cx="140" cy="254" r="6" fill="#bcd8f5" stroke="#4b7fc4" stroke-width="1.2"/>
+  <circle cx="140" cy="290" r="6" fill="#bcd8f5" stroke="#4b7fc4" stroke-width="1.2"/>
+  <circle cx="560" cy="118" r="7" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="560" cy="158" r="7" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="560" cy="250" r="7" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="560" cy="290" r="7" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <line x1="560" y1="118" x2="560" y2="158" stroke="#e07a1f" stroke-width="1.6" stroke-dasharray="4 4"/>
+  <line x1="560" y1="250" x2="560" y2="290" stroke="#e07a1f" stroke-width="1.6" stroke-dasharray="4 4"/>
+  <text x="596" y="142" font-size="13" fill="#4a4f56" text-anchor="start" font-weight="400">gate 1</text>
+  <text x="596" y="274" font-size="13" fill="#4a4f56" text-anchor="start" font-weight="400">gate 2</text>
+  <g stroke="#e07a1f" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M 170 196 L 530 142"/><path d="M 522.4 146.8 L 530 142 L 521.3 139.6"/></g>
+  <g stroke="#e07a1f" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M 170 200 L 530 266"/><path d="M 521.3 268.1 L 530 266 L 522.6 260.9"/></g>
+  <circle cx="352" cy="204" r="11" fill="#fcfcf8" stroke="#6b4fa8" stroke-width="2.6"/>
+  <text x="372" y="209" font-size="13" fill="#6b4fa8" text-anchor="start" font-weight="700">coach calls the gate</text>
+  <g stroke="#8b9099" stroke-width="1.2"><line x1="140" y1="328" x2="560" y2="328"/><line x1="140" y1="322" x2="140" y2="334"/><line x1="560" y1="322" x2="560" y2="334"/></g>
+  <rect x="312.0" y="319" width="76" height="18" fill="#fcfcf8"/>
+  <text x="350.0" y="332" font-size="12.5" fill="#4a4f56" text-anchor="middle" font-weight="400">12 metres</text>
+</svg>

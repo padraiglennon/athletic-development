@@ -14,7 +14,9 @@ The session already covers the three things the GAA framework asks for, without 
 | Match | Fitness. Boys get fit by playing, which is exactly what the GAA document recommends |
 | Athletic development | How they move, and how they hold themselves. Starting, stopping, turning, landing, and body shapes |
 
-So the athletic development station does not need to do fitness. No laps, no shuttles, no running them into the ground. The match station has that covered. Our seventeen minutes are for movement quality.
+So the athletic development station does not need to do fitness. No laps for the sake of laps, and nobody is ever run into the ground. The match station has that covered. Our seventeen minutes are for movement quality.
+
+The endurance theme is not a change of mind about that. Those four nights teach a boy one pace and how to tell when he is above it. Nobody is timed, nobody is chased and nobody finishes on his knees.
 
 ## Tuesday and Thursday
 
@@ -76,6 +78,27 @@ Three of the four parts have everybody moving at once. That is deliberate.
 
 If you are running behind, cut the wake up game. Never cut the body shapes, because that is the part they get nowhere else in the session.
 
+## The rules that never change
+
+These used to be printed on all twenty run sheets. They are the same every night, so read them once and they are done.
+
+1. Four boys to a lane, one behind the other behind the start cone. Spare boys go to the shortest lane.
+2. The boy at the front of each lane runs. Six lanes, so six boys go together on the whistle. That is what a wave means on a run sheet.
+3. Nobody starts before the whistle, and one coach whistles for all six lanes.
+4. After his run he jogs back up the outside of his lane, never down the middle of one.
+5. Every boy stays on his own disc for the body shapes.
+6. Same station for all three groups. Set it up once, run it three times.
+
+## When it is not working
+
+Also the same every night.
+
+- **Running late.** Cut the wake up game. Never cut the body shapes.
+- **More than four boys waiting in a lane.** Add a seventh lane. Boys in a queue learn nothing.
+- **It looks bad.** Go back a step and slow it down. Slower and correct beats faster and messy.
+- **Numbers are uneven.** Some weeks a group is 30. Add a lane and carry on.
+- **Lashing rain.** Every run sheet has a wet weather line at the bottom of it.
+
 ## The grid
 
 One layout, used all night.
@@ -129,9 +152,25 @@ You are watching for four things. If you are ever unsure what to coach, coach on
 3. **Knees not falling inwards.** On landing, on turning, on any big step.
 4. **Head up.** If he is looking at his feet, the drill is too hard for him. Make it easier.
 
-## Things that will go wrong
+## The run sheets
 
-- **Groups arrive late or early.** You will lose two or three minutes off some rotations. Cut the wake up game, not the shapes.
-- **Numbers are uneven.** Some weeks a group is 30. Add a seventh lane and carry on.
-- **Wet nights.** Everything here works in the wet except the body shapes on the ground. Swap those for standing versions and do them on the spot.
-- **The boys want the ball.** They always want the ball. Two of the four parts can be done with a ball in hand and it costs nothing, so let them.
+Every night in the autumn has its own sheet in [sessions](sessions/), one folder per theme. There are two files for each night and they hold the same thing.
+
+- The `.md` file is the one to read on a phone or in the repository.
+- The `.html` file is one A4 page in two columns. Open it in a browser and print it. That is the page to bring to the pitch.
+
+Each sheet carries two pictures: the layout to put on the ground, and the movement or the body shape drawn twice, done well beside the usual fault. A coach who has never run this station should be able to work from the pictures alone.
+
+Both files are built from `tools/sessions.py`. Change a session there and run `python3 tools/build_sheets.py`. Do not edit the `.md` or the `.html` by hand, because the next build will write over it.
+
+## The wake up game
+
+All twenty nights use a different wake up game, and every one of them works with 25 boys and finishes inside two minutes. They are written out in full on the run sheets. Reuse any of them in any theme.
+
+None of them needs more than the discs, the cones, a few bibs and some tennis balls. None of them has a queue in it.
+
+## Two things the boys will ask for
+
+**The ball.** They always want the ball. Two of the four parts can be done with a ball in hand and it costs nothing, so let them.
+
+**To win something.** The challenge game is where that goes. Nothing is written down, no times are taken, and no winner is announced twice in a row.

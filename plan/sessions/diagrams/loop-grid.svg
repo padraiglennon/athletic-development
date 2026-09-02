@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 744 356" width="744" height="356" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="743" height="355" rx="6" fill="#fcfcf8" stroke="#d8d8d0"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#22262b">One loop, about 70 metres round</text>
+  <text x="24" y="56" font-size="12.5" fill="#6a6f76">everybody runs the same way at the same time, and nobody stops</text>
+  <rect x="118" y="92" width="508" height="196" rx="70" fill="none" stroke="#c6c6bd" stroke-width="1.5" stroke-dasharray="3 9"/>
+  <circle cx="118" cy="190" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="626" cy="190" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="250" cy="92" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="400" cy="92" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="250" cy="288" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="400" cy="288" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="150" cy="112" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="594" cy="112" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="150" cy="268" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="594" cy="268" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <g stroke="#e07a1f" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M 300 78 L 360 78"/><path d="M 351.8 81.7 L 360 78 L 351.8 74.3"/></g>
+  <g stroke="#e07a1f" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M 360 302 L 300 302"/><path d="M 308.2 298.3 L 300 302 L 308.2 305.7"/></g>
+  <g stroke="#e07a1f" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M 642 160 L 642 220"/><path d="M 638.3 211.8 L 642 220 L 645.7 211.8"/></g>
+  <g stroke="#e07a1f" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M 102 220 L 102 160"/><path d="M 105.7 168.2 L 102 160 L 98.3 168.2"/></g>
+  <text x="372" y="176" font-size="13" fill="#4a4f56" text-anchor="middle" font-weight="400">Slower boys run the inside of the corners.</text>
+  <text x="372" y="200" font-size="13" fill="#4a4f56" text-anchor="middle" font-weight="400">Nobody laps anybody. Keep the line moving.</text>
+  <g stroke="#8b9099" stroke-width="1.2"><line x1="118" y1="330" x2="626" y2="330"/><line x1="118" y1="324" x2="118" y2="336"/><line x1="626" y1="324" x2="626" y2="336"/></g>
+  <rect x="334.0" y="321" width="76" height="18" fill="#fcfcf8"/>
+  <text x="372.0" y="334" font-size="12.5" fill="#4a4f56" text-anchor="middle" font-weight="400">about 25 metres</text>
+</svg>
