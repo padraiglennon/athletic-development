@@ -40,8 +40,6 @@ Set it up before the first group arrives and leave it for all three.
 - Ask three boys: "On the second run, could you still talk?"
 - Tell them the theme changes on Tuesday and it is sprinting.
 
-![Talking pace, and the question that checks it](../diagrams/move-pace.svg)
-
 ## Coach one thing
 
 **Nothing. Find out who has learned the pace.**
@@ -52,4 +50,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](08-thu-17-sep.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 7](07-tue-15-sep.md) · [On to session 9](../3-sprints/09-tue-22-sep.md)
+[Print this sheet](08-thu-17-sep.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 7](07-tue-15-sep.md) · [On to session 9](../3-sprints/09-tue-22-sep.md)

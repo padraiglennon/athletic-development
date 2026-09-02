@@ -43,8 +43,6 @@ Set it up before the first group arrives and leave it for all three.
 - Ten jumps together. The listeners say how many they heard.
 - Three rounds so every group jumps once. The listeners are strict, which is the point.
 
-![The landing, done well and done badly](../diagrams/shape-landing.svg)
-
 ## Coach one thing
 
 **If you can hear him land, he is landing badly.**
@@ -56,4 +54,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](17-tue-20-oct.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 16](../4-stopping/16-thu-15-oct.md) · [On to session 18](18-thu-22-oct.md)
+[Print this sheet](17-tue-20-oct.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 16](../4-stopping/16-thu-15-oct.md) · [On to session 18](18-thu-22-oct.md)

@@ -40,8 +40,6 @@ Set it up before the first group arrives and leave it for all three.
 - Ask three boys: "What is the shape called, and where do you use it?"
 - Tell them the theme changes on Tuesday.
 
-![The sit, done well and done badly](../diagrams/shape-sit.svg)
-
 ## Coach one thing
 
 **Nothing. Watch, and find out who knows the shape.**
@@ -52,4 +50,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](04-thu-03-sep.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 3](03-tue-01-sep.md) · [On to session 5](../2-endurance/05-tue-08-sep.md)
+[Print this sheet](04-thu-03-sep.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 3](03-tue-01-sep.md) · [On to session 5](../2-endurance/05-tue-08-sep.md)

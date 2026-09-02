@@ -44,8 +44,6 @@ Set it up before the first group arrives and leave it for all three.
 - On the whistle they race ten metres. Six races, a new partner each time.
 - Nothing written down and no winners announced.
 
-![The first step, done well and done badly](../diagrams/move-first-step.svg)
-
 ## Coach one thing
 
 **The first step goes forward, not up.**
@@ -57,4 +55,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](01-tue-25-aug.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [On to session 2](02-thu-27-aug.md)
+[Print this sheet](01-tue-25-aug.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [On to session 2](02-thu-27-aug.md)

@@ -40,8 +40,6 @@ Set it up before the first group arrives and leave it for all three.
 - Ask the group: "Name the five shapes." Then ask one boy to say what each one is for.
 - That is the autumn finished. Tell them so.
 
-![The landing, done well and done badly](../diagrams/shape-landing.svg)
-
 ## Coach one thing
 
 **Nothing. Find out how many of the five shapes they can name.**
@@ -52,4 +50,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](20-thu-29-oct.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 19](19-tue-27-oct.md)
+[Print this sheet](20-thu-29-oct.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 19](19-tue-27-oct.md)

@@ -40,8 +40,6 @@ Set it up before the first group arrives and leave it for all three.
 - Ask two boys: "Could you still talk on that last run?"
 - Hand them on. They should leave fresher than they arrived.
 
-![The plank, done well and done badly](../diagrams/shape-plank.svg)
-
 ## Coach one thing
 
 **Nothing. Ask the talking question and listen to the answer.**
@@ -52,4 +50,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](06-thu-10-sep.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 5](05-tue-08-sep.md) · [On to session 7](07-tue-15-sep.md)
+[Print this sheet](06-thu-10-sep.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 5](05-tue-08-sep.md) · [On to session 7](07-tue-15-sep.md)

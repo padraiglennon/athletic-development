@@ -41,8 +41,6 @@ Set it up before the first group arrives and leave it for all three.
 - Then you call "left", "right" or "back" and he goes that way for five metres.
 - Six waves. Now the stop has to be balanced enough to move out of, which is what a match asks for.
 
-![Stopping on the line, done well and done badly](../diagrams/move-stop.svg)
-
 ## Coach one thing
 
 **Two steps, at full speed, or he goes back to jogging.**
@@ -54,4 +52,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](15-tue-13-oct.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 14](14-thu-08-oct.md) · [On to session 16](16-thu-15-oct.md)
+[Print this sheet](15-tue-13-oct.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 14](14-thu-08-oct.md) · [On to session 16](16-thu-15-oct.md)

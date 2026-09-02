@@ -41,8 +41,6 @@ Set it up before the first group arrives and leave it for all three.
 - On the whistle they get up and race ten metres.
 - Six races. Change partner each time and swap which side they sit on.
 
-![The first step, done well and done badly](../diagrams/move-first-step.svg)
-
 ## Coach one thing
 
 **Getting off the ground without using the hands.**
@@ -54,4 +52,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](03-tue-01-sep.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 2](02-thu-27-aug.md) · [On to session 4](04-thu-03-sep.md)
+[Print this sheet](03-tue-01-sep.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 2](02-thu-27-aug.md) · [On to session 4](04-thu-03-sep.md)

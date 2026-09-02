@@ -40,8 +40,6 @@ Set it up before the first group arrives and leave it for all three.
 - Then walk them in and ask two boys to name the shape.
 - Hand them on. Match on Saturday.
 
-![The big step, done well and done badly](../diagrams/shape-big-step.svg)
-
 ## Coach one thing
 
 **Nothing. Watch the arms of the boys who were bad on Tuesday.**
@@ -52,4 +50,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](10-thu-24-sep.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 9](09-tue-22-sep.md) · [On to session 11](11-tue-29-sep.md)
+[Print this sheet](10-thu-24-sep.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 9](09-tue-22-sep.md) · [On to session 11](11-tue-29-sep.md)

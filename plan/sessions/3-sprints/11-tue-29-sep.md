@@ -40,8 +40,6 @@ Set it up before the first group arrives and leave it for all three.
 - He sets off. When he is about three metres in, shout "one" or "two" and he runs through that gate.
 - One boy at a time from each of three starts, so three going at once. Six goes each.
 
-![Arms when running, done well and done badly](../diagrams/move-arms.svg)
-
 ## Coach one thing
 
 **Reacting without slowing down.**
@@ -53,4 +51,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](11-tue-29-sep.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 10](10-thu-24-sep.md) · [On to session 12](12-thu-01-oct.md)
+[Print this sheet](11-tue-29-sep.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 10](10-thu-24-sep.md) · [On to session 12](12-thu-01-oct.md)

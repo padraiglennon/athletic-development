@@ -40,8 +40,6 @@ Set it up before the first group arrives and leave it for all three.
 - Walk them in and ask two boys to name the shape.
 - Hand them on. They should leave fresher than they arrived.
 
-![The bow, done well and done badly](../diagrams/shape-bow.svg)
-
 ## Coach one thing
 
 **Nothing. Watch the boys who stopped upright on Tuesday.**
@@ -52,4 +50,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](14-thu-08-oct.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 13](13-tue-06-oct.md) · [On to session 15](15-tue-13-oct.md)
+[Print this sheet](14-thu-08-oct.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 13](13-tue-06-oct.md) · [On to session 15](15-tue-13-oct.md)

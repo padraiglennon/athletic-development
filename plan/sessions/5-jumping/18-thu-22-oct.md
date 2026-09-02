@@ -41,8 +41,6 @@ Set it up before the first group arrives and leave it for all three.
 - Walk them in and ask two boys what makes a landing quiet.
 - Hand them on. Match on Saturday.
 
-![The landing, done well and done badly](../diagrams/shape-landing.svg)
-
 ## Coach one thing
 
 **Nothing. Listen from the side of the lanes.**
@@ -53,4 +51,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](18-thu-22-oct.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 17](17-tue-20-oct.md) · [On to session 19](19-tue-27-oct.md)
+[Print this sheet](18-thu-22-oct.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 17](17-tue-20-oct.md) · [On to session 19](19-tue-27-oct.md)

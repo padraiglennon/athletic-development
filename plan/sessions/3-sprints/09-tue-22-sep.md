@@ -45,8 +45,6 @@ Set it up before the first group arrives and leave it for all three.
 - Fifteen metres. Six races, a new partner each time.
 - Now they will run properly fast, which is why the technique came first.
 
-![Arms when running, done well and done badly](../diagrams/move-arms.svg)
-
 ## Coach one thing
 
 **Hands stay on their own side of the body.**
@@ -58,4 +56,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](09-tue-22-sep.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 8](../2-endurance/08-thu-17-sep.md) · [On to session 10](10-thu-24-sep.md)
+[Print this sheet](09-tue-22-sep.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 8](../2-endurance/08-thu-17-sep.md) · [On to session 10](10-thu-24-sep.md)

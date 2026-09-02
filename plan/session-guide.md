@@ -157,11 +157,11 @@ You are watching for four things. If you are ever unsure what to coach, coach on
 Every night in the autumn has its own sheet in [sessions](sessions/), one folder per theme. There are two files for each night and they hold the same thing.
 
 - The `.md` file is the one to read on a phone or in the repository.
-- The `.html` file is one A4 page in two columns. Open it in a browser and print it. That is the page to bring to the pitch.
+- The `.pdf` file is one A4 page in two columns. Print it. That is the page to bring to the pitch.
 
 Each sheet carries two pictures: the layout to put on the ground, and the movement or the body shape drawn twice, done well beside the usual fault. A coach who has never run this station should be able to work from the pictures alone.
 
-Both files are built from `tools/sessions.py`. Change a session there and run `python3 tools/build_sheets.py`. Do not edit the `.md` or the `.html` by hand, because the next build will write over it.
+Both files are built from `tools/sessions.py`. Change a session there and run `python3 tools/build_sheets.py`. Do not edit the `.md` or the `.pdf` by hand, because the next build will write over it.
 
 ## The wake up game
 

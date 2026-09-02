@@ -40,8 +40,6 @@ Set it up before the first group arrives and leave it for all three.
 - Ask three boys: "What is the shape called, and what falls in if you do it badly?"
 - Tell them the theme changes on Tuesday and it is stopping.
 
-![The big step, done well and done badly](../diagrams/shape-big-step.svg)
-
 ## Coach one thing
 
 **Nothing. Find out who knows the shape.**
@@ -52,4 +50,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](12-thu-01-oct.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 11](11-tue-29-sep.md) · [On to session 13](../4-stopping/13-tue-06-oct.md)
+[Print this sheet](12-thu-01-oct.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 11](11-tue-29-sep.md) · [On to session 13](../4-stopping/13-tue-06-oct.md)

@@ -41,8 +41,6 @@ Set it up before the first group arrives and leave it for all three.
 - If he wobbles or you hear it, it does not count and he goes again.
 - Six goes each. They will learn to jump shorter and land better, which is exactly right.
 
-![The landing, done well and done badly](../diagrams/shape-landing.svg)
-
 ## Coach one thing
 
 **Hold the one foot landing for two seconds, or go back to two feet.**
@@ -54,4 +52,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](19-tue-27-oct.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 18](18-thu-22-oct.md) · [On to session 20](20-thu-29-oct.md)
+[Print this sheet](19-tue-27-oct.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 18](18-thu-22-oct.md) · [On to session 20](20-thu-29-oct.md)

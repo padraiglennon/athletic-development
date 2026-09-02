@@ -29,7 +29,7 @@ Three groups, sorted by ability, rotating between athletic development, skills, 
 2. [plan/activities.md](plan/activities.md) is the bank of themes, one every four sessions, each filling the seventeen minutes.
 3. [plan/year-plan.md](plan/year-plan.md) is what order the themes go in and why.
 4. [plan/autumn-2026.md](plan/autumn-2026.md) is the calendar from 25 August to Halloween, and it links to every night.
-5. [plan/sessions/](plan/sessions/) is one sheet per night, in a folder per theme. Print the `.html` file: it is a single A4 page in two columns with a picture of the layout and a picture of the movement done well beside the same movement done badly. This is the page to bring to the pitch.
+5. [plan/sessions/](plan/sessions/) is one sheet per night, in a folder per theme. Print the `.pdf` file: it is a single A4 page in two columns, with a card for each part of the seventeen minutes and a picture of the layout. This is the page to bring to the pitch.
 6. [plan/equipment.md](plan/equipment.md) is what to buy with the 100 euro.
 7. [knowledge/action-statement-notes.md](knowledge/action-statement-notes.md) is the GAA document explained in ordinary words, for when someone asks why we do it this way.
 
@@ -45,13 +45,15 @@ Nothing heavier than their own body. Slower and correct beats faster and messy. 
 
 ## Building the run sheets
 
-The twenty run sheets are generated, not written by hand. The content of every night is in [tools/sessions.py](tools/sessions.py) and the diagrams are drawn by [tools/figures.py](tools/figures.py) and [tools/layouts.py](tools/layouts.py).
+The twenty run sheets are generated, not written by hand. The content of every night is in [tools/sessions.py](tools/sessions.py) and the layout diagrams are drawn by [tools/layouts.py](tools/layouts.py).
 
 ```
 python3 tools/build_sheets.py
 ```
 
-That writes the `.md` page and the A4 `.html` sheet for all twenty nights, and redraws every diagram. It needs Python 3 and nothing else. Editing a `.md` or an `.html` by hand does not last, because the next build writes over it.
+That writes the `.md` page and the A4 `.pdf` sheet for all twenty nights, and redraws every diagram. It needs Python 3 and Google Chrome, which prints the PDF. Editing a `.md` or a `.pdf` by hand does not last, because the next build writes over it.
+
+To put a photograph on a sheet, read [plan/sessions/photos/README.md](plan/sessions/photos/README.md).
 
 ## Assumptions
 

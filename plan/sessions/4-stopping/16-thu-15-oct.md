@@ -40,8 +40,6 @@ Set it up before the first group arrives and leave it for all three.
 - Ask three boys: "What is the shape called, and when do you use it in a match?"
 - Tell them the theme changes on Tuesday and it is jumping.
 
-![The bow, done well and done badly](../diagrams/shape-bow.svg)
-
 ## Coach one thing
 
 **Nothing. Find out who knows the shape.**
@@ -52,4 +50,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](16-thu-15-oct.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 15](15-tue-13-oct.md) · [On to session 17](../5-jumping/17-tue-20-oct.md)
+[Print this sheet](16-thu-15-oct.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 15](15-tue-13-oct.md) · [On to session 17](../5-jumping/17-tue-20-oct.md)

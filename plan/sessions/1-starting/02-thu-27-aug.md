@@ -40,8 +40,6 @@ Set it up before the first group arrives and leave it for all three.
 - Walk them in. Ask three boys to name the shape and to show it.
 - Hand them to the next station on time.
 
-![The sit, done well and done badly](../diagrams/shape-sit.svg)
-
 ## Coach one thing
 
 **Nothing. Watch them and let them run.**
@@ -52,4 +50,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](02-thu-27-aug.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 1](01-tue-25-aug.md) · [On to session 3](03-tue-01-sep.md)
+[Print this sheet](02-thu-27-aug.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 1](01-tue-25-aug.md) · [On to session 3](03-tue-01-sep.md)

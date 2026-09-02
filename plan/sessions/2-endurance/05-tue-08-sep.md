@@ -43,8 +43,6 @@ Set it up before the first group arrives and leave it for all three.
 - The group adds them up at the end and that number is the target for session 7.
 - Nobody's own number is asked for out loud.
 
-![Talking pace, and the question that checks it](../diagrams/move-pace.svg)
-
 ## Coach one thing
 
 **Finding one pace and holding it.**
@@ -56,4 +54,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](05-tue-08-sep.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 4](../1-starting/04-thu-03-sep.md) · [On to session 6](06-thu-10-sep.md)
+[Print this sheet](05-tue-08-sep.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 4](../1-starting/04-thu-03-sep.md) · [On to session 6](06-thu-10-sep.md)

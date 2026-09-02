@@ -4,7 +4,7 @@ Twenty nights, Tuesday and Thursday at 5.30, to the Thursday before Halloween. F
 
 Everything here is the athletic development station only, seventeen minutes, run three times as the groups rotate.
 
-Every night has its own run sheet in [sessions](sessions/), one folder per theme. Each sheet is a single A4 page in two columns, with a picture of the layout and a picture of the movement done well beside the same movement done badly. Open the `.html` file and print it. Take that page to the pitch.
+Every night has its own run sheet in [sessions](sessions/), one folder per theme. Each sheet is a single A4 page in two columns. It has a card for each part of the seventeen minutes and a picture of the layout. Print the `.pdf` file and take that page to the pitch.
 
 This page is the calendar and the reason the themes are in this order. The themes themselves are in the [activity bank](activities.md).
 

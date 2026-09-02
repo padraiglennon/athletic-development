@@ -41,8 +41,6 @@ Set it up before the first group arrives and leave it for all three.
 - Every boy runs twice. Call the group lap total from session 5 and see if they beat it.
 - The teams are mixed up every round, so nobody is stuck on a losing team.
 
-![The plank, done well and done badly](../diagrams/shape-plank.svg)
-
 ## Coach one thing
 
 **The same speed out and back.**
@@ -54,4 +52,4 @@ Set it up before the first group arrives and leave it for all three.
 
 ---
 
-[Print this sheet](07-tue-15-sep.html) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 6](06-thu-10-sep.md) · [On to session 8](08-thu-17-sep.md)
+[Print this sheet](07-tue-15-sep.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 6](06-thu-10-sep.md) · [On to session 8](08-thu-17-sep.md)
