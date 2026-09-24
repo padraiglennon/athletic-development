@@ -2,9 +2,9 @@
 
 Twenty nights, Tuesday and Thursday at 5.30, to the Thursday before Halloween. Five themes of four nights each: starting, endurance, sprints, stopping, jumping.
 
-Everything here is the athletic development station only, seventeen minutes, run three times as the groups rotate.
+Everything here is the athletic development station only, eleven minutes, run three times as the groups rotate.
 
-Every night has its own run sheet in [sessions](sessions/), one folder per theme. Each sheet is a single A4 page in two columns. It has a card for each part of the seventeen minutes and a picture of the layout. Print the `.pdf` file and take that page to the pitch.
+Every night has its own run sheet in [sessions](sessions/), one folder per theme. Each sheet is a single A4 page in two columns. It has a card for the setup, a card for each of the two exercises, and a picture of the layout. Print the `.pdf` file and take that page to the pitch.
 
 This page is the calendar and the reason the themes are in this order. The themes themselves are in the [activity bank](activities.md).
 
@@ -35,7 +35,7 @@ This page is the calendar and the reason the themes are in this order. The theme
 
 Five themes finish exactly on the Thursday before Halloween. What comes after Halloween is in the [year plan](year-plan.md). The body shapes are a theme of their own and they start in November.
 
-Every night has three parts: a wake up game of 2 minutes, a movement of 8 minutes, and a challenge game of 7 minutes.
+Every night has 1 minute setup followed by two 5-minute exercises: a movement of 5 minutes, and a challenge game or finish of 5 minutes.
 
 ## The shape of a four night theme
 
@@ -50,7 +50,7 @@ Four nights is two turns of the fixture cycle, so every theme gets two hurling n
 
 Every Tuesday is a push night. Three days after the last match, four days before the next one, so this is where the teaching happens and where the pace goes up.
 
-Every Thursday is an ease off night. There is a match two days later, every week. Keep the wake up game and the movement, drop the challenge game, and send them home fresher than they arrived.
+Every Thursday is an ease off night. There is a match two days later, every week. Keep the movement and finish, and send them home fresher than they arrived.
 
 Nothing new is ever taught on a Thursday.
 
@@ -74,4 +74,4 @@ Nothing new is ever taught on a Thursday.
 
 **It is lashing rain.** Every run sheet has a wet weather line at the bottom. Follow it. The short version: nothing lies or kneels on the ground, and nothing stops hard on wet grass.
 
-**A group turns up late.** Cut the wake up game and give the time to the movement, because that is the part they get nowhere else all week.
+**A group turns up late.** Cut into the challenge or finish game and protect the movement, because that is the part they get nowhere else all week.

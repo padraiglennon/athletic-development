@@ -1,28 +1,30 @@
+<!-- built: header -->
 # Session 3, Tuesday 1 September
 
 Football · Push night. Teach it slowly, then put the pace up · Theme: Starting · Next match: Hurling, Saturday 5 September
+<!-- /built -->
+
+---
+n: 3
+date: Tuesday 1 September
+theme: 1-starting
+code: Football
+night: push
+match: Hurling, Saturday 5 September
+kit:
+  - 12 cones, six lanes, 15 metres
+  - Hands free
+coach: Getting off the ground without using the hands.
+wet: The sitting start becomes a crouch start. Everything else stands.
+---
 
 Two more starts go in tonight, and the pace goes up. Four days to the next match.
 
-## On the ground
-
-- 12 cones, six lanes, 15 metres
-- 25 discs, four colours
-- Hands free
-
 ![Six lanes 15 metres long, with a cone at each end](../diagrams/lanes-15m.svg)
 
-Set it up before the first group arrives and leave it for all three.
+## The station
 
-## The seventeen minutes
-
-**0 to 2, wake up game: colour dash.**
-
-- Scatter the discs in four colours through the grid. They jog between them.
-- Call a colour. Every boy sprints to stand beside a disc of that colour, then jogs again.
-- Eight or nine calls. Call the same colour twice in a row once, to catch them out.
-
-**2 to 10, movement: four starts.**
+### 1 to 6 · Movement · Four starts
 
 - Standing and rolling, one wave each, to settle them in.
 - Sitting start. He sits on the line facing down the lane, hands off the ground.
@@ -30,7 +32,7 @@ Set it up before the first group arrives and leave it for all three.
 - Four waves of each new one. Slow the first wave right down.
 - Walk back after every go, on the outside of the lanes.
 
-**10 to 17, challenge game: race off the ground.**
+### 6 to 11 · Challenge game · Race off the ground
 
 - Pairs, one pair to a lane, both sitting on the start line facing down the lane.
 - On the whistle they get up and race ten metres.
@@ -38,13 +40,9 @@ Set it up before the first group arrives and leave it for all three.
 
 ## Coach one thing
 
-**Getting off the ground without using the hands.**
-
 - Boys rolling onto their front to get up. Show them how to plant one foot and drive.
 - Knees falling in as he pushes off the ground.
 
-**Lashing rain.** The sitting start becomes a crouch start. Everything else stands.
-
----
-
+<!-- built: links -->
 [Print this sheet](03-tue-01-sep.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 2](02-thu-27-aug.md) · [On to session 4](04-thu-03-sep.md)
+<!-- /built -->

@@ -1,10 +1,11 @@
 """Pitch layout diagrams for the run sheets.
 
 Four new layouts join the four already in plan/sessions/diagrams: a loop for
-continuous running, a shuttle grid, an open box for the wake up games, and a
+continuous running, a shuttle grid, an open box of scattered discs, and a
 pair of gates for the sprint challenge.
 """
 
+import math
 import random
 
 import svgkit as k
@@ -37,6 +38,70 @@ def loop_grid():
     return k.svg(744, 356, "\n".join(parts))
 
 
+def chase_ring():
+    """A small ring for a pairs chase game. Round the outside, not through the middle."""
+    parts = [
+        k.title("A small ring, about 8 metres across"),
+        k.subtitle("pairs face off, one chases the other round the outside"),
+    ]
+    cx, cy, r = 300, 190, 108
+    parts.append(f'  <circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="#c6c6bd" '
+                 f'stroke-width="1.5" stroke-dasharray="3 9"/>')
+    for i in range(4):
+        angle = math.pi / 2 * i + math.pi / 4
+        parts.append("  " + k.cone(cx + r * math.cos(angle), cy + r * math.sin(angle)))
+    runner = (cx + r * math.cos(math.radians(-95)), cy + r * math.sin(math.radians(-95)))
+    chaser = (cx + r * math.cos(math.radians(-125)), cy + r * math.sin(math.radians(-125)))
+    parts.append("  " + k.disc(*runner, 7, k.RIGHT, k.RIGHT))
+    parts.append(k.label("runner", runner[0], runner[1] - 14, 12.5, k.TEXT, "middle"))
+    parts.append("  " + k.disc(*chaser, 7, k.WRONG, k.WRONG))
+    parts.append(k.label("chaser", chaser[0] - 8, chaser[1] - 10, 12.5, k.TEXT, "end"))
+    ax1 = (cx + r * math.cos(math.radians(-70)), cy + r * math.sin(math.radians(-70)))
+    ax2 = (cx + r * math.cos(math.radians(-40)), cy + r * math.sin(math.radians(-40)))
+    parts.append("  " + k.arrow(*ax1, *ax2))
+    parts.append(k.label('Both run round the ring. Call "switch" to swap them.', cx, cy + r + 40,
+                         13, k.TEXT, "middle"))
+    return k.svg(600, 372, "\n".join(parts))
+
+
+def shuttle_weave():
+    """A shuttle circuit: sprint, tight turn, weave, final cut, sprint out."""
+    parts = [
+        k.title("Sprint, turn, weave, cut, sprint out"),
+        k.subtitle("one at a time, full rest before the next boy goes"),
+    ]
+    start = (90, 300)
+    turn = (260, 130)
+    weave = [(380, 250), (450, 170)]
+    cut = (580, 260)
+    finish = (680, 130)
+
+    parts.append("  " + k.disc(*start, 7))
+    parts.append(k.label("start", start[0], start[1] + 24, 12.5, k.TEXT, "middle"))
+    parts.append("  " + k.arrow(start[0] + 20, start[1] - 16, turn[0] - 18, turn[1] + 18))
+
+    parts.append("  " + k.cone(*turn))
+    parts.append(k.label("plant and turn tight", turn[0], turn[1] - 16, 12.5, k.TEXT, "middle"))
+    parts.append("  " + k.arrow(turn[0] + 16, turn[1] + 12, weave[0][0] - 18, weave[0][1] - 12))
+
+    for wx, wy in weave:
+        parts.append("  " + k.cone(wx, wy))
+    parts.append(k.label("weave: short, choppy steps", (weave[0][0] + weave[1][0]) / 2, weave[0][1] + 26,
+                         12.5, k.TEXT, "middle"))
+    parts.append("  " + k.arrow(weave[0][0] + 16, weave[0][1] - 8, weave[1][0] - 16, weave[1][1] + 8))
+    parts.append("  " + k.arrow(weave[1][0] + 16, weave[1][1] + 10, cut[0] - 18, cut[1] - 10))
+
+    parts.append("  " + k.cone(*cut))
+    parts.append(k.label("cut hard round this one", cut[0], cut[1] + 24, 12.5, k.TEXT, "middle"))
+    parts.append("  " + k.arrow(cut[0] + 8, cut[1] - 20, finish[0] - 12, finish[1] + 20))
+
+    parts.append("  " + k.disc(*finish, 7, k.RIGHT, k.RIGHT))
+    parts.append(k.label("finish", finish[0], finish[1] - 16, 12.5, k.TEXT, "middle"))
+
+    parts.append(k.label("Walk back. Full rest before the next go.", 372, 340, 13, k.MUTED, "middle"))
+    return k.svg(744, 360, "\n".join(parts))
+
+
 def shuttle_grid():
     """Six lanes with a turn cone at 5, 10 and 15 metres."""
     parts = [
@@ -60,7 +125,7 @@ def shuttle_grid():
 
 
 def scatter_box():
-    """An open box of scattered discs. Every wake up game runs in this."""
+    """An open box of scattered discs."""
     rng = random.Random(11)
     parts = [
         k.title("The open box, a disc each, four colours"),
@@ -145,12 +210,50 @@ def pace_gauge():
     return k.svg(744, 320, "\n".join(parts))
 
 
+def staggered_lanes():
+    """Six lanes extended to 30m with staggered start cones for passing down the line."""
+    parts = [
+        k.title("Six lanes, 30 metres with staggered start"),
+        k.subtitle("left cone 3m up, each cone to the right 0.5m back"),
+    ]
+    finish_x = 608
+    start_xs = [170, 158, 146, 134, 122, 110]
+    ys = [74, 100, 126, 152, 178, 204]
+
+    for sx, y in zip(start_xs, ys):
+        parts.append(f'  <line x1="{sx + 10}" y1="{y}" x2="{finish_x - 10}" y2="{y}" '
+                     f'stroke="#c6c6bd" stroke-width="1.5" stroke-dasharray="3 9" stroke-linecap="round"/>')
+
+    for sx, y in zip(start_xs, ys):
+        parts.append("  " + k.cone(sx, y, r=6))
+        parts.append("  " + k.cone(finish_x, y, r=6))
+
+    for i, (sx, y) in enumerate(zip(start_xs, ys), start=1):
+        parts.append(f'  <text x="{sx - 16}" y="{y + 4}" font-size="12" fill="{k.MUTED}" text-anchor="end">{i}</text>')
+
+    parts.append(k.label("staggered start", 140, 56, 12.5, k.TEXT, "middle"))
+    parts.append(k.label("finish", finish_x, 56, 12.5, k.TEXT, "middle"))
+
+    parts.append("  " + k.arrow(174, 82, 120, 200, k.CONE, 2.0))
+    parts.append(k.label("ball passes down the line", 190, 140, 12, k.CONE, "start", "700"))
+
+    parts.append(k.dimension(110, finish_x, 232, "30 metres"))
+
+    parts.append('  <g fill="#8b9099" font-size="11.5"><circle cx="656" cy="254" r="6" '
+                 f'fill="{k.CONE}" stroke="{k.CONE_EDGE}" stroke-width="1.2"/><text x="670" y="258">cone</text></g>')
+
+    return k.svg(760, 276, "\n".join(parts))
+
+
 BUILDERS = {
     "move-pace": pace_gauge,
     "loop-grid": loop_grid,
+    "chase-ring": chase_ring,
+    "shuttle-weave": shuttle_weave,
     "shuttle-grid": shuttle_grid,
     "scatter-box": scatter_box,
     "two-gates": two_gates,
+    "staggered-lanes": staggered_lanes,
 }
 
 

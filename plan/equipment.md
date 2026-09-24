@@ -43,12 +43,12 @@ Nothing on the list above is bought for one theme only, and no theme needs anyth
 | Theme | The only thing worth checking you have |
 | --- | --- |
 | Starting | 12 cones |
-| Endurance | 10 cones for the loop, and 12 tennis balls for the wake up game |
+| Endurance | 10 cones for the loop |
 | Sprints | 16 cones, because two gates go out as well as the lanes |
 | Stopping | 18 cones, because every lane needs a stop line as well as two ends |
 | Jumping | 6 mini hurdles, 15 cm. Low ones only, and nothing taller ever |
 
-Bibs are used as tags and as tails. Twelve is enough, because the tail game runs with twelve boys wearing one and the rest chasing.
+Bibs are used for splitting groups and marking teams.
 
 ## Setting up
 

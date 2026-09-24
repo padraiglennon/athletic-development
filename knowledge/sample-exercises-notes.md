@@ -26,13 +26,13 @@ It is written up in the [activity bank](../plan/activities.md#the-gauntlet) and 
 
 ## What we are not taking, and why
 
-Since the pack is meant for everyone, this is not a mismatch, it is a judgement call about our squad and our seventeen minutes.
+Since the pack is meant for everyone, this is not a mismatch, it is a judgement call about our squad and our eleven minutes.
 
 Worth saying first that the action statement deliberately puts no ages on anything. It says the stage a boy is at depends on the boy, and it leaves the judging to the coach standing in front of him. So a pack aimed at all age groups is a fair thing to send round. It just means somebody has to do that judging, and for the U11s that is us.
 
-**The two kick passing drills.** Nothing wrong with either at U11. The question is which station they belong to, and it is not ours. Both are skills drills with conditioning running attached, and our seventeen minutes do neither of those jobs. The match rotation is the fitness and the skills rotation is the kick passing. Hand both to the skills coaches and they are a good addition over there.
+**The two kick passing drills.** Nothing wrong with either at U11. The question is which station they belong to, and it is not ours. Both are skills drills with conditioning running attached, and our eleven minutes do neither of those jobs. The match rotation is the fitness and the skills rotation is the kick passing. Hand both to the skills coaches and they are a good addition over there.
 
-The size problem does not go away at any age either. Page three needs groups of five and 40 metres, which with 25 boys is five groups strung across most of a pitch, and it takes about a minute to explain against our thirty second rule. That is four of the seventeen minutes gone before anyone has moved.
+The size problem does not go away at any age either. Page three needs groups of five and 40 metres, which with 25 boys is five groups strung across most of a pitch, and it takes about a minute to explain against our thirty second rule. That is four of the eleven minutes gone before anyone has moved.
 
 **The tempo running.** This is the one where all age groups and the framework pull against each other, so it is worth being straight about it.
 

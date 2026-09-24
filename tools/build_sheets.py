@@ -1,16 +1,23 @@
 """Build the run sheets.
 
-Every night produces two files from the same data in sessions.py:
+Every night is a hand-edited markdown file:
 
-  plan/sessions/<theme>/<slug>.md   the page to read in the repository
+  plan/sessions/<theme>/<slug>.md   the source a coach edits
   plan/sessions/<theme>/<slug>.pdf  one A4 page in two columns, to print
+
+The build owns two marked regions of each source file, the header at the top
+and the link row at the bottom, and rewrites both. It never touches the text
+between the markers. See design/ADR-001-markdown-session-sources.md.
 
 The PDF is rendered by headless Chrome. The HTML it renders from is written
 next to the PDF, used, and deleted, so it never lands in the repository.
 
 Run this from anywhere: python3 tools/build_sheets.py
+Build one session only: python3 tools/build_sheets.py 06-thu-10-sep
+(also accepts a session number, e.g. python3 tools/build_sheets.py 6)
 """
 
+import glob
 import html
 import os
 import re
@@ -21,38 +28,20 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 import layouts
-from sessions import SESSIONS, THEMES
+import sessionfile
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SESSION_DIR = os.path.join(ROOT, "plan", "sessions")
 DIAGRAM_DIR = os.path.join(SESSION_DIR, "diagrams")
-PHOTO_DIR = os.path.join(SESSION_DIR, "photos")
+THEMES_PATH = os.path.join(SESSION_DIR, "themes.md")
+CALENDAR_PATH = os.path.join(ROOT, "plan", "autumn-2026.md")
 
 BROWSERS = ("google-chrome", "chromium", "chromium-browser", "google-chrome-stable")
 
-CAPTIONS = {
-    "lanes-15m": "Six lanes 15 metres long, with a cone at each end",
-    "stop-line": "Six lanes with the stop line at 10 metres and 5 metres of run off",
-    "hurdles": "A mini hurdle in the middle of each of the six lanes",
-    "spots": "No lanes tonight, a disc for every boy and nothing to jump over",
-    "loop-grid": "One loop about 70 metres round, everybody running the same way",
-    "shuttle-grid": "Six lanes with turn cones at 5, 10 and 15 metres",
-    "scatter-box": "An open box about 20 by 20 metres with a disc for every boy",
-    "two-gates": "A start line and a gate at either side, 12 metres away",
-    "move-pace": "Talking pace, and the question that checks it",
-}
+PUSH_NIGHT = "Push night. Teach it slowly, then put the pace up"
+EASE_NIGHT = "Ease off night. Match pace, then send them home fresher"
 
-# What each photograph has to show. The photograph itself is optional.
-PHOTO_CAPTIONS = {
-    "move-first-step": "The first step goes forward, not up",
-    "move-arms": "The hand goes from the pocket to the chin, on its own side of the body",
-    "move-stop": "Two steps, knees bent, chest up, and held still",
-    "move-landing": "Landing on the front of the feet, knees bent and knees apart",
-}
-
-
-def theme_of(session):
-    return THEMES[session["theme"]]
+SETUP_NOTE = "1 minute setup. Set it up before the first group arrives and leave it for all three."
 
 
 def find_browser():
@@ -63,78 +52,155 @@ def find_browser():
     return None
 
 
-def photos(session):
-    """Return (good, bad) photo file names for this session, or (None, None).
+# ---------------------------------------------------------------------- themes
 
-    A photo is optional. Drop one into plan/sessions/photos and the next build
-    puts it on every sheet that teaches that movement. See the README there.
+THEME_HEADING_RE = re.compile(r'^##\s+(?P<key>\S+)\s*·\s*(?P<name>.+)$')
+
+
+def load_themes(path):
+    """Read plan/sessions/themes.md into an ordered {key: {key, name, aim}} dict."""
+    with open(path) as handle:
+        lines = handle.read().split("\n")
+    themes = {}
+    key = name = None
+    aim_lines = []
+
+    def close():
+        if key is not None:
+            themes[key] = {"key": key, "name": name, "aim": " ".join(aim_lines).strip()}
+
+    for line in lines:
+        match = THEME_HEADING_RE.match(line.strip())
+        if match:
+            close()
+            key, name = match.group("key"), match.group("name").strip()
+            aim_lines = []
+        elif key is not None and line.strip() and not line.strip().startswith("#"):
+            aim_lines.append(line.strip())
+    close()
+    return themes
+
+
+# -------------------------------------------------------------------- sessions
+
+def discover_session_files(themes):
+    paths = []
+    for theme in themes.values():
+        paths += sorted(glob.glob(os.path.join(SESSION_DIR, theme["key"], "*.md")))
+    return paths
+
+
+def load_sessions(themes):
+    """Parse every session file. Returns (sessions_by_slug, errors).
+
+    All 20 files are read and validated before anything is written, so one
+    broken file is reported alongside every other fault in a single run.
     """
-    key = session.get("photo")
-    if not key:
-        return None, None
-    good = bad = None
-    for ext in (".jpg", ".jpeg", ".png"):
-        if good is None and os.path.exists(os.path.join(PHOTO_DIR, key + ext)):
-            good = key + ext
-        if bad is None and os.path.exists(os.path.join(PHOTO_DIR, key + "-bad" + ext)):
-            bad = key + "-bad" + ext
-    return good, bad
+    errors = []
+    sessions = {}
+    seen_n = {}
+
+    for path in discover_session_files(themes):
+        rel = os.path.relpath(path, ROOT)
+        with open(path) as handle:
+            text = handle.read()
+        session, file_errors, images = sessionfile.parse_session_file(text, rel)
+
+        for alt, src in images:
+            image_path = os.path.normpath(os.path.join(os.path.dirname(path), src))
+            if not os.path.exists(image_path):
+                errors.append(f"{rel}: image not found: {src}")
+
+        if file_errors:
+            errors += file_errors
+            continue
+
+        slug = os.path.splitext(os.path.basename(path))[0]
+        folder_key = os.path.basename(os.path.dirname(path))
+        if session["theme"] != folder_key:
+            errors.append(f"{rel}: frontmatter theme '{session['theme']}' does not match "
+                           f"the folder it is in, '{folder_key}'")
+            continue
+        if session["theme"] not in themes:
+            errors.append(f"{rel}: theme '{session['theme']}' is not in {THEMES_PATH}")
+            continue
+        if session["n"] in seen_n:
+            errors.append(f"{rel}: session number {session['n']} is also used by "
+                           f"{seen_n[session['n']]}")
+        else:
+            seen_n[session["n"]] = rel
+
+        session["slug"] = slug
+        session["path"] = path
+        sessions[slug] = session
+
+    return sessions, errors
 
 
-def neighbours(index):
-    before = SESSIONS[index - 1] if index > 0 else None
-    after = SESSIONS[index + 1] if index < len(SESSIONS) - 1 else None
+def kind_text(session):
+    if session["kind"]:
+        return session["kind"]
+    return PUSH_NIGHT if session["night"] == "push" else EASE_NIGHT
+
+
+def ordered_slugs(sessions):
+    return [slug for slug, _ in sorted(sessions.items(), key=lambda kv: kv[1]["n"])]
+
+
+def neighbours(order, slug):
+    index = order.index(slug)
+    before = order[index - 1] if index > 0 else None
+    after = order[index + 1] if index < len(order) - 1 else None
     return before, after
 
 
-def link_to(session, from_session):
-    if theme_of(session)["key"] == theme_of(from_session)["key"]:
-        return f'{session["slug"]}.md'
-    return f'../{theme_of(session)["key"]}/{session["slug"]}.md'
+def link_to(session, target_slug, sessions):
+    target = sessions[target_slug]
+    if session["theme"] == target["theme"]:
+        return f"{target_slug}.md"
+    return f"../{target['theme']}/{target_slug}.md"
 
 
-# --------------------------------------------------------------------- markdown
+# ------------------------------------------------------------------ marked regions
 
-def markdown(session, index):
-    theme = theme_of(session)
-    before, after = neighbours(index)
-    good, bad = photos(session)
-    out = [f'# Session {session["n"]}, {session["date"]}', ""]
-    out.append(f'{session["code"]} · {session["kind"]} · Theme: {theme["name"]} · '
-               f'Next match: {session["match"]}')
-    out += ["", session["line"], ""]
+def build_header(session, theme):
+    return (f'# Session {session["n"]}, {session["date"]}\n\n'
+            f'{session["code"]} · {kind_text(session)} · Theme: {theme["name"]} · '
+            f'Next match: {session["match"]}')
 
-    out += ["## On the ground", ""]
-    out += [f"- {item}" for item in session["kit"]]
-    out += ["", f'![{CAPTIONS[session["layout"]]}](../diagrams/{session["layout"]}.svg)', ""]
-    if session.get("extra"):
-        out += [f'![{CAPTIONS[session["extra"]]}](../diagrams/{session["extra"]}.svg)', ""]
-    out += ["Set it up before the first group arrives and leave it for all three.", ""]
 
-    out.append("## The seventeen minutes")
-    for time, kind, name, lines in session["parts"]:
-        out += ["", f"**{time}, {kind.lower()}: {name.lower()}.**", ""]
-        out += [f"- {line}" for line in lines]
-    out.append("")
-
-    if good:
-        out += ["## What it should look like", "",
-                f'![{PHOTO_CAPTIONS[session["photo"]]}](../photos/{good})', ""]
-        if bad:
-            out += [f'![The same movement done badly](../photos/{bad})', ""]
-
-    out += ["## Coach one thing", "", f'**{session["coach"]}**', ""]
-    out += [f"- {item}" for item in session["watch"]]
-    out += ["", f'**Lashing rain.** {session["wet"]}', "", "---", ""]
+def build_links(session, order, sessions):
+    before, after = neighbours(order, session["slug"])
     tail = [f'[Print this sheet]({session["slug"]}.pdf)',
             "[How to run the station](../../session-guide.md)",
             "[All twenty nights](../../autumn-2026.md)"]
     if before:
-        tail.append(f'[Back to session {before["n"]}]({link_to(before, session)})')
+        tail.append(f'[Back to session {sessions[before]["n"]}]'
+                     f'({link_to(session, before, sessions)})')
     if after:
-        tail.append(f'[On to session {after["n"]}]({link_to(after, session)})')
-    out.append(" · ".join(tail))
-    return "\n".join(out) + "\n"
+        tail.append(f'[On to session {sessions[after]["n"]}]'
+                     f'({link_to(session, after, sessions)})')
+    return " · ".join(tail)
+
+
+def rewrite_source(session, theme, order, sessions):
+    with open(session["path"]) as handle:
+        text = handle.read()
+    middle, errors = sessionfile.split_marked_regions(text, session["path"])
+    if errors:
+        return errors
+
+    new_text = (
+        f"{sessionfile.HEADER_OPEN}\n{build_header(session, theme)}\n"
+        f"{sessionfile.HEADER_CLOSE}\n\n"
+        f"{middle}\n\n"
+        f"{sessionfile.LINKS_OPEN}\n{build_links(session, order, sessions)}\n"
+        f"{sessionfile.LINKS_CLOSE}\n"
+    )
+    if new_text != text:
+        with open(session["path"], "w") as handle:
+            handle.write(new_text)
+    return []
 
 
 # ------------------------------------------------------------------------- html
@@ -176,17 +242,12 @@ section.part h2 .t { background: #eef2f7; color: #35506f; border-radius: 3px;
 section.setup { border-left: 3px solid #e07a1f; }
 section.coach { border-left: 3px solid #a8560f; background: #fdf1e4; border-color: #e0b487; }
 section.coach .one { font-weight: 700; font-size: 1.1em; display: block; margin-bottom: 0.35em; }
-section.photo { border-left: 3px solid #2f7d4f; }
 ul { margin: 0; padding-left: 1.1em; }
 li { margin-bottom: 0.15em; }
 .note { margin: 0.4em 0 0; font-size: 0.86em; color: #6a6f76; }
 figure { margin: 0.45em 0 0; }
 figure img { width: 100%; display: block; border-radius: 3px; }
-.shots { display: flex; gap: 0.4em; }
-.shots figure { flex: 1; margin: 0.45em 0 0; }
 figcaption { font-size: 0.78em; color: #6a6f76; margin-top: 0.25em; }
-.tag { font-weight: 700; font-size: 0.84em; }
-.ok { color: #2f7d4f; } .no { color: #c0392b; }
 .wet { font-size: 0.88em; color: #4a4f56; margin-top: 0.5em; padding-top: 0.35em;
        border-top: 1px dashed #e0b487; }
 footer { border-top: 1px solid #d2d2ca; margin-top: 0.5em; padding-top: 0.35em; font-size: 0.78em;
@@ -195,31 +256,27 @@ footer { border-top: 1px solid #d2d2ca; margin-top: 0.5em; padding-top: 0.35em; 
 
 
 # The sheet must be one A4 page. The build starts at the largest body size and
-# steps down until the page fits, so a new photo or a longer part cannot spill
-# onto a second page.
+# steps down until the page fits, so a longer part cannot spill onto a second page.
 SIZES = (13.2, 12.8, 12.4, 12.0, 11.6, 11.2, 10.8, 10.4, 10.0, 9.6, 9.2, 8.8)
 
 
-def sheet(session, base):
-    theme = theme_of(session)
+def sheet(session, theme, base):
     e = html.escape
-    good, bad = photos(session)
 
     facts = [("Code", session["code"]), ("Theme", theme["name"]),
              ("Next match", session["match"])]
-    chips = f'<span class="fact night"><b>{e(session["kind"].split(".")[0])}</b></span>' + "".join(
-        f'<span class="fact"><b>{e(k)}</b> {e(v)}</span>' for k, v in facts)
+    chips = (f'<span class="fact night"><b>{e(kind_text(session).split(".")[0])}</b></span>'
+             + "".join(f'<span class="fact"><b>{e(k)}</b> {e(v)}</span>' for k, v in facts))
+
+    figures = "".join(
+        f'<figure><img src="{e(src)}"><figcaption>{e(alt)}</figcaption></figure>'
+        for alt, src in session["images"])
 
     blocks = [
         '<section class="setup"><h2>On the ground</h2><ul>'
         + "".join(f"<li>{e(item)}</li>" for item in session["kit"])
-        + '</ul><p class="note">Set it up before the first group arrives and leave it for '
-          'all three.</p>'
-        + f'<figure><img src="../diagrams/{session["layout"]}.svg">'
-          f'<figcaption>{e(CAPTIONS[session["layout"]])}</figcaption></figure>'
-        + (f'<figure><img src="../diagrams/{session["extra"]}.svg">'
-           f'<figcaption>{e(CAPTIONS[session["extra"]])}</figcaption></figure>'
-           if session.get("extra") else "")
+        + f'</ul><p class="note">{e(SETUP_NOTE)}</p>'
+        + figures
         + "</section>"
     ]
 
@@ -228,18 +285,6 @@ def sheet(session, base):
             f'<section class="part"><h2><span class="t">{e(time)}</span>'
             f'<span>{e(kind)}: {e(name.lower())}</span></h2><ul>'
             + "".join(f"<li>{e(line)}</li>" for line in lines) + "</ul></section>")
-
-    if good:
-        shots = f'<figure><img src="../photos/{good}">'
-        if bad:
-            shots = ('<div class="shots">'
-                     f'<figure><img src="../photos/{good}">'
-                     f'<figcaption class="tag ok">Like this</figcaption></figure>'
-                     f'<figure><img src="../photos/{bad}">'
-                     f'<figcaption class="tag no">Not this</figcaption></figure></div>')
-        else:
-            shots += f'<figcaption>{e(PHOTO_CAPTIONS[session["photo"]])}</figcaption></figure>'
-        blocks.append(f'<section class="photo"><h2>What it should look like</h2>{shots}</section>')
 
     blocks.append(
         '<section class="coach"><span class="one">Coach one thing: '
@@ -263,7 +308,7 @@ def sheet(session, base):
 {chr(10).join(blocks)}
 </div>
 <footer><span>{e(theme['aim'])}</span>
-<span>U11 athletic development &middot; 17 minutes</span></footer>
+<span>U11 athletic development &middot; 11 minutes</span></footer>
 </body></html>
 """
 
@@ -298,45 +343,148 @@ def page_count(pdf_path):
     return int(found[0]) if found else 0
 
 
-def build_pdf(browser, session, folder):
+def build_pdf(browser, session, theme, folder):
+    """Render the PDF into a temp file first, so a session that never fits
+    one page leaves the PDF already on disk untouched."""
     html_path = os.path.join(folder, session["slug"] + ".html")
+    tmp_path = os.path.join(folder, session["slug"] + ".tmp.pdf")
     pdf_path = os.path.join(folder, session["slug"] + ".pdf")
     try:
         for base in SIZES:
             with open(html_path, "w") as handle:
-                handle.write(sheet(session, base))
-            if render_pdf(browser, html_path, pdf_path) and page_count(pdf_path) == 1:
-                settle_dates(pdf_path)
+                handle.write(sheet(session, theme, base))
+            if render_pdf(browser, html_path, tmp_path) and page_count(tmp_path) == 1:
+                settle_dates(tmp_path)
+                os.replace(tmp_path, pdf_path)
                 return True
     finally:
         if os.path.exists(html_path):
             os.remove(html_path)
+        if os.path.exists(tmp_path):
+            os.remove(tmp_path)
     return False
+
+
+# --------------------------------------------------------------------- calendar
+
+CALENDAR_ROW_RE = re.compile(
+    r'^\|\s*(?P<n>\d+)\s*\|\s*\[(?P<short_date>[^\]]+)\]\((?P<link>[^)]+)\)\s*\|'
+    r'\s*(?P<code>[^|]+?)\s*\|\s*(?P<saturday>[^|]+?)\s*\|\s*(?P<theme>[^|]+?)\s*\|\s*$')
+
+MONTHS = ("January", "February", "March", "April", "May", "June", "July",
+          "August", "September", "October", "November", "December")
+
+
+def short_date(full_date):
+    """'Tuesday 25 August' -> 'Tue 25 Aug', with no datetime year guessing needed."""
+    weekday, day, month = full_date.split(" ", 2)
+    return f"{weekday[:3]} {int(day):d} {month[:3]}"
+
+
+def short_match(match):
+    """'Football, Saturday 29 August' -> 'Football, 29 Aug'."""
+    code, _, rest = match.partition(", ")
+    _, day, month = rest.split(" ", 2)
+    return f"{code}, {int(day):d} {month[:3]}"
+
+
+def check_calendar_drift(sessions):
+    if not os.path.exists(CALENDAR_PATH):
+        return
+    with open(CALENDAR_PATH) as handle:
+        lines = handle.read().split("\n")
+
+    warnings = []
+    for line in lines:
+        match = CALENDAR_ROW_RE.match(line)
+        if not match:
+            continue
+        slug = os.path.splitext(os.path.basename(match.group("link")))[0]
+        session = sessions.get(slug)
+        if session is None:
+            warnings.append(f"plan/autumn-2026.md: row for session {match.group('n')} "
+                             f"links to {slug}, which has no session file")
+            continue
+
+        rel = os.path.relpath(session["path"], ROOT)
+        expected = {
+            "n": str(session["n"]),
+            "short_date": short_date(session["date"]),
+            "code": session["code"],
+            "saturday": short_match(session["match"]),
+            "theme": sessions[slug]["theme_name"],
+        }
+        for field, value in expected.items():
+            if match.group(field) != value:
+                warnings.append(f"plan/autumn-2026.md: session {session['n']} row has "
+                                 f"{field}={match.group(field)!r}, but {rel} has {value!r}")
+
+    for warning in warnings:
+        print("warning: " + warning, file=sys.stderr)
+
+
+# ------------------------------------------------------------------------- main
+
+def select_sessions(sessions, order, wanted):
+    """Match each argument against a session slug or number. All sessions if none given."""
+    if not wanted:
+        return list(order)
+    chosen = []
+    unmatched = list(wanted)
+    for slug in order:
+        for arg in wanted:
+            if arg == slug or arg == str(sessions[slug]["n"]):
+                chosen.append(slug)
+                if arg in unmatched:
+                    unmatched.remove(arg)
+                break
+    if unmatched:
+        sys.exit("no session matches: " + ", ".join(unmatched))
+    return chosen
 
 
 def main():
     layouts.build(DIAGRAM_DIR)
+
+    themes = load_themes(THEMES_PATH)
+    sessions, errors = load_sessions(themes)
+    if errors:
+        print(f"{len(errors)} fault(s) found, nothing was built:", file=sys.stderr)
+        for error in sorted(errors):
+            print("  " + error, file=sys.stderr)
+        sys.exit(1)
+
+    for session in sessions.values():
+        session["theme_name"] = themes[session["theme"]]["name"]
+
+    order = ordered_slugs(sessions)
+    check_calendar_drift(sessions)
+
+    wanted = select_sessions(sessions, order, sys.argv[1:])
     browser = find_browser()
     if not browser:
         print("No Chrome or Chromium found, so the PDFs were not built.\n"
               "Install one of: " + ", ".join(BROWSERS), file=sys.stderr)
 
-    for theme in THEMES:
-        os.makedirs(os.path.join(SESSION_DIR, theme["key"]), exist_ok=True)
-
     failed = []
-    for index, session in enumerate(SESSIONS):
-        folder = os.path.join(SESSION_DIR, theme_of(session)["key"])
-        with open(os.path.join(folder, session["slug"] + ".md"), "w") as handle:
-            handle.write(markdown(session, index))
+    for slug in wanted:
+        session = sessions[slug]
+        theme = themes[session["theme"]]
+        folder = os.path.dirname(session["path"])
+        rewrite_errors = rewrite_source(session, theme, order, sessions)
+        if rewrite_errors:
+            for error in rewrite_errors:
+                print("error: " + error, file=sys.stderr)
+            failed.append(slug)
+            continue
         if not browser:
             continue
-        if not build_pdf(browser, session, folder):
-            failed.append(session["slug"])
+        if not build_pdf(browser, session, theme, folder):
+            failed.append(slug)
 
-    print(f"built {len(SESSIONS)} markdown pages in {SESSION_DIR}")
+    print(f"built {len(wanted)} session(s) in {SESSION_DIR}")
     if browser:
-        print(f"built {len(SESSIONS) - len(failed)} PDF sheets with {os.path.basename(browser)}")
+        print(f"built {len(wanted) - len(failed)} PDF sheet(s) with {os.path.basename(browser)}")
     if failed:
         print("failed: " + ", ".join(failed), file=sys.stderr)
 

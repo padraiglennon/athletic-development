@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 744 360" width="744" height="360" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="743" height="359" rx="6" fill="#fcfcf8" stroke="#d8d8d0"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#22262b">Sprint, turn, weave, cut, sprint out</text>
+  <text x="24" y="56" font-size="12.5" fill="#6a6f76">one at a time, full rest before the next boy goes</text>
+  <circle cx="90" cy="300" r="7" fill="#bcd8f5" stroke="#4b7fc4" stroke-width="1.2"/>
+  <text x="90" y="324" font-size="12.5" fill="#4a4f56" text-anchor="middle" font-weight="400">start</text>
+  <g stroke="#e07a1f" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M 110 284 L 242 148"/><path d="M 238.9 156.5 L 242 148 L 233.6 151.3"/></g>
+  <circle cx="260" cy="130" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <text x="260" y="114" font-size="12.5" fill="#4a4f56" text-anchor="middle" font-weight="400">plant and turn tight</text>
+  <g stroke="#e07a1f" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M 276 142 L 362 238"/><path d="M 353.8 234.3 L 362 238 L 359.3 229.4"/></g>
+  <circle cx="380" cy="250" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="450" cy="170" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <text x="415.0" y="276" font-size="12.5" fill="#4a4f56" text-anchor="middle" font-weight="400">weave: short, choppy steps</text>
+  <g stroke="#e07a1f" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M 396 242 L 434 178"/><path d="M 433.0 186.9 L 434 178 L 426.6 183.2"/></g>
+  <g stroke="#e07a1f" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M 466 180 L 562 250"/><path d="M 553.2 248.1 L 562 250 L 557.5 242.2"/></g>
+  <circle cx="580" cy="260" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <text x="580" y="284" font-size="12.5" fill="#4a4f56" text-anchor="middle" font-weight="400">cut hard round this one</text>
+  <g stroke="#e07a1f" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M 588 240 L 668 150"/><path d="M 665.3 158.6 L 668 150 L 659.8 153.7"/></g>
+  <circle cx="680" cy="130" r="7" fill="#2f7d4f" stroke="#2f7d4f" stroke-width="1.2"/>
+  <text x="680" y="114" font-size="12.5" fill="#4a4f56" text-anchor="middle" font-weight="400">finish</text>
+  <text x="372" y="340" font-size="13" fill="#6a6f76" text-anchor="middle" font-weight="400">Walk back. Full rest before the next go.</text>
+</svg>

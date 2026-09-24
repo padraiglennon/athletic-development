@@ -1,6 +1,6 @@
 # How to run the athletic development station
 
-You have 17 or 18 minutes with about 25 boys, and you run the same thing three times as the groups rotate. Twice a week, Tuesday and Thursday, from 5.30.
+You have 11 minutes with about 25 boys, and you run the same thing three times as the groups rotate. Twice a week, Tuesday and Thursday, from 5.30.
 
 That is the whole job. This page is how to get value out of it.
 
@@ -14,7 +14,7 @@ The session already covers the three things the GAA framework asks for, without 
 | Match | Fitness. Boys get fit by playing, which is exactly what the GAA document recommends |
 | Athletic development | How they move, and how they hold themselves. Starting, stopping, turning, sprinting, jumping and landing |
 
-So the athletic development station does not need to do fitness. No laps for the sake of laps, and nobody is ever run into the ground. The match station has that covered. Our seventeen minutes are for movement quality.
+So the athletic development station does not need to do fitness. No laps for the sake of laps, and nobody is ever run into the ground. The match station has that covered. Our eleven minutes are for movement quality.
 
 The endurance theme is not a change of mind about that. Those four nights teach a boy one pace and how to tell when he is above it. Nobody is timed, nobody is chased and nobody finishes on his knees.
 
@@ -38,7 +38,7 @@ Never introduce something new on a Thursday. A boy meeting a movement for the fi
 
 There is a game every week, hurling one Saturday and football the next. There is no free weekend to lean on, so the two nights have to carry different jobs.
 
-**Every Thursday goes lighter.** Keep the wake up game and the movement, drop the challenge game, and finish them fresher than you found them. The GAA document is clear about easing off before a game and it costs nothing to follow.
+**Every Thursday goes lighter.** Keep the movement and finish, send them home fresher than you found them. The GAA document is clear about easing off before a game and it costs nothing to follow.
 
 **Tuesday is where you push.** Three days after the last match and four days before the next one, so the pace can go up, the reacting can go in, and the one against one gets run here or not at all.
 
@@ -65,17 +65,17 @@ These matter more than the activities do. A brilliant drill run badly with 25 bo
 6. **Same content for every group, different difficulty.** The groups are already sorted by ability, so the top group gets it faster and with more to think about, and the bottom group gets more space and more time. You do not need three different plans.
 7. **Have the next thing already on the ground.** Every changeover you have to build is a minute you do not get back.
 
-## The seventeen minutes
+## The station
 
 | Time | What | Everyone moving? |
 | --- | --- | --- |
-| 0 to 2 | Wake up game | Yes, all 25 |
-| 2 to 10 | Movement of the theme, across the lanes | In waves of six |
-| 10 to 17 | Challenge game, using the movement | Yes, all 25 |
+| 0 to 1 | Setup and explain | Yes, get into lanes |
+| 1 to 6 | Movement of the theme, across the lanes | In waves of six |
+| 6 to 11 | Challenge game or finish, using the movement | Yes, all 25 |
 
 Every part has everybody moving. That is deliberate.
 
-If you are running behind, cut the wake up game and give the time to the movement. The movement is the part they get nowhere else in the session.
+If you are running behind, cut into the finish game and give the time to the movement. The movement is the part they get nowhere else in the session.
 
 ## The rules that never change
 
@@ -92,7 +92,7 @@ These used to be printed on all twenty run sheets. They are the same every night
 
 Also the same every night.
 
-- **Running late.** Cut the wake up game. Never cut the movement.
+- **Running late.** Cut the finish game. Never cut the movement.
 - **More than four boys waiting in a lane.** Add a seventh lane. Boys in a queue learn nothing.
 - **It looks bad.** Go back a step and slow it down. Slower and correct beats faster and messy.
 - **Numbers are uneven.** Some weeks a group is 30. Add a lane and carry on.
@@ -157,18 +157,12 @@ Every night in the autumn has its own sheet in [sessions](sessions/), one folder
 - The `.md` file is the one to read on a phone or in the repository.
 - The `.pdf` file is one A4 page in two columns. Print it. That is the page to bring to the pitch.
 
-Each sheet carries the layout to put on the ground, and a card for each of the three parts. A coach who has never run this station should be able to work from the sheet alone.
+Each sheet carries the layout to put on the ground, a setup card, and a card for each of the two exercises. A coach who has never run this station should be able to work from the sheet alone.
 
-Both files are built from `tools/sessions.py`. Change a session there and run `python3 tools/build_sheets.py`. Do not edit the `.md` or the `.pdf` by hand, because the next build will write over it.
-
-## The wake up game
-
-All twenty nights use a different wake up game, and every one of them works with 25 boys and finishes inside two minutes. They are written out in full on the run sheets. Reuse any of them in any theme.
-
-None of them needs more than the discs, the cones, a few bibs and some tennis balls. None of them has a queue in it.
+To edit a session, open the `.md` file in `plan/sessions/<theme>/<slug>.md` and change the words. Run `python3 tools/build_sheets.py` to rebuild the `.pdf`.
 
 ## Two things the boys will ask for
 
-**The ball.** They always want the ball. Two of the four parts can be done with a ball in hand and it costs nothing, so let them.
+**The ball.** They always want the ball. The exercises can be done with a ball in hand and it costs nothing, so let them.
 
 **To win something.** The challenge game is where that goes. Nothing is written down, no times are taken, and no winner is announced twice in a row.
