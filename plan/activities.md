@@ -66,11 +66,11 @@ Four run sheets: [sessions 9 to 12](sessions/3-sprints/).
 
 **Movement, 5 minutes.** Running tall. Waves of six, 15 metres at about three quarter pace for the first two nights and flat out on the third. Arms driving front to back, not across the body. Head still. Tall through the middle.
 
-**Challenge game, 5 minutes.** Pair races over 15 metres. Later in the theme, two gates 12 metres away and the coach calls which gate as the boy is already running.
+**Challenge game, 5 minutes.** Pair races over 15 metres. Later in the theme, the 8-cone snake drill: sprint, lateral shuffle through the zigzag, and an explosive sprint out.
 
 **Watch for.** Arms swinging across the chest, and heads rolling side to side.
 
-**Easier.** Shorter distance, slower, and no gates.
+**Easier.** Shorter distance, slower, and wider zigzag turns.
 **Harder.** Run with a hurl in one hand and keep the other arm working properly.
 
 ---

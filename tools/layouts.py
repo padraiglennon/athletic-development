@@ -245,6 +245,53 @@ def staggered_lanes():
     return k.svg(760, 276, "\n".join(parts))
 
 
+def snake_sprint():
+    """8-cone snake drill: sprint, lateral shuffle through the zigzag, explosive sprint out."""
+    parts = [
+        k.title("8-cone snake: sprint, shuffle, sprint"),
+        k.subtitle("sprint to cone 2, stay low and shuffle the zigzag, plant and sprint out"),
+    ]
+    c1 = (70, 190)
+    c2 = (160, 190)
+    c3 = (250, 130)
+    c4 = (340, 250)
+    c5 = (430, 130)
+    c6 = (520, 250)
+    c7 = (600, 190)
+    c8 = (685, 190)
+
+    parts.append("  " + k.disc(*c1, 7))
+    parts.append(k.label("start", c1[0], c1[1] + 24, 12.5, k.TEXT, "middle"))
+    parts.append("  " + k.arrow(c1[0] + 16, c1[1], c2[0] - 16, c2[1]))
+    parts.append(k.label("sprint", (c1[0] + c2[0]) / 2, c1[1] - 12, 12, k.CONE, "middle", "700"))
+
+    for pt in [c2, c3, c4, c5, c6, c7]:
+        parts.append("  " + k.cone(*pt))
+
+    parts.append("  " + k.arrow(c2[0] + 12, c2[1] - 8, c3[0] - 12, c3[1] + 8))
+    parts.append("  " + k.arrow(c3[0] + 12, c3[1] + 12, c4[0] - 12, c4[1] - 12))
+    parts.append("  " + k.arrow(c4[0] + 12, c4[1] - 12, c5[0] - 12, c5[1] + 12))
+    parts.append("  " + k.arrow(c5[0] + 12, c5[1] + 12, c6[0] - 12, c6[1] - 12))
+    parts.append("  " + k.arrow(c6[0] + 12, c6[1] - 8, c7[0] - 12, c7[1] + 8))
+
+    parts.append("  " + k.disc(*c8, 7, k.RIGHT, k.RIGHT))
+    parts.append("  " + k.arrow(c7[0] + 16, c7[1], c8[0] - 16, c8[1]))
+    parts.append(k.label("sprint out", (c7[0] + c8[0]) / 2, c7[1] - 12, 12, k.CONE, "middle", "700"))
+    parts.append(k.label("finish", c8[0], c8[1] + 24, 12.5, k.TEXT, "middle"))
+
+    parts.append(k.label("break down", c2[0], c2[1] + 24, 11.5, k.MUTED, "middle"))
+    parts.append(k.label("plant outside foot", c3[0], c3[1] - 14, 11.5, k.MUTED, "middle"))
+    parts.append(k.label("stay low", c4[0], c4[1] + 24, 11.5, k.MUTED, "middle"))
+    parts.append(k.label("face downfield", c5[0], c5[1] - 14, 11.5, k.MUTED, "middle"))
+    parts.append(k.label("plant outside foot", c6[0], c6[1] + 24, 11.5, k.MUTED, "middle"))
+    parts.append(k.label("plant & go", c7[0], c7[1] + 24, 11.5, k.MUTED, "middle"))
+
+    parts.append(k.dimension(c1[0], c8[0], 298, "about 20 metres"))
+    parts.append(k.label("Walk back around the outside. Full rest before the next go.", 372, 338, 13, k.MUTED, "middle"))
+
+    return k.svg(744, 356, "\n".join(parts))
+
+
 BUILDERS = {
     "move-pace": pace_gauge,
     "loop-grid": loop_grid,
@@ -254,6 +301,7 @@ BUILDERS = {
     "scatter-box": scatter_box,
     "two-gates": two_gates,
     "staggered-lanes": staggered_lanes,
+    "snake-sprint": snake_sprint,
 }
 
 
