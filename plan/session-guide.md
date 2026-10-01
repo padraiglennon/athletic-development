@@ -77,6 +77,13 @@ Every part has everybody moving. That is deliberate.
 
 If you are running behind, cut into the finish game and give the time to the movement. The movement is the part they get nowhere else in the session.
 
+### Ball use across the station
+
+For each future session (from session 12 on 1 October onwards, leaving earlier sessions untouched), we try to ensure there is a mixture of ball use across the eleven minutes:
+
+- **1 to 6 (Movement)**: Start with a focus on the movement form or goal without the ball. Slower and correct mechanics come first, giving them time to learn the shape and rhythm cleanly.
+- **6 to 11 (Challenge game or finish)**: Include the ball (football or sliotar) where possible. Bringing the ball into the game adds match-realistic pressure and gives the boys the ball work they want, while keeping the movement honest at speed.
+
 ## The rules that never change
 
 These used to be printed on all twenty run sheets. They are the same every night, so read them once and they are done.
@@ -163,6 +170,6 @@ To edit a session, open the `.md` file in `plan/sessions/<theme>/<slug>.md` and 
 
 ## Two things the boys will ask for
 
-**The ball.** They always want the ball. The exercises can be done with a ball in hand and it costs nothing, so let them.
+**The ball.** They always want the ball. From 1 October onwards, future sessions build this in: the first exercise focuses on movement form without the ball, and the second brings the ball in where possible.
 
 **To win something.** The challenge game is where that goes. Nothing is written down, no times are taken, and no winner is announced twice in a row.

@@ -44,7 +44,7 @@ Nothing on the list above is bought for one theme only, and no theme needs anyth
 | --- | --- |
 | Starting | 12 cones |
 | Endurance | 10 cones for the loop |
-| Sprints | 16 cones, for the lanes and the two 8-cone snake setups |
+| Sprints | 16 cones, for the lanes and the two 8-cone setups (snake lanes or chase circles) |
 | Stopping | 18 cones, because every lane needs a stop line as well as two ends |
 | Jumping | 6 mini hurdles, 15 cm. Low ones only, and nothing taller ever |
 

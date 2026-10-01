@@ -292,6 +292,55 @@ def snake_sprint():
     return k.svg(744, 356, "\n".join(parts))
 
 
+def circle_chase():
+    """Two large chase circles (>=10m diameter): opposite starts, 2 laps anti-clockwise."""
+    parts = [
+        k.title("Two large chase circles: opposite starts, 2 laps anti-clockwise"),
+        k.subtitle("at least 10m diameter · half squad each · queue 3m back · coach in center"),
+    ]
+    r = 70
+    centers = [(205, 195), (539, 195)]
+
+    for idx, (cx, cy) in enumerate(centers, 1):
+        parts.append(f'  <circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="#c6c6bd" '
+                     f'stroke-width="1.5" stroke-dasharray="3 9"/>')
+        for i in range(8):
+            ang = i * (2 * math.pi / 8)
+            parts.append("  " + k.cone(cx + r * math.cos(ang), cy + r * math.sin(ang)))
+
+        # Opposite starts: top and bottom
+        parts.append("  " + k.disc(cx, cy - r - 15, 6, k.RIGHT, k.RIGHT))
+        parts.append("  " + k.disc(cx, cy - r - 29, 5, k.DISC, k.DISC_EDGE))
+        parts.append("  " + k.disc(cx, cy - r - 41, 5, k.DISC, k.DISC_EDGE))
+        parts.append(k.label("start A", cx - 14, cy - r - 6, 11.5, k.TEXT, "end", "700"))
+        parts.append(k.label("queue 3m back", cx + 12, cy - r - 26, 10.5, k.MUTED, "start"))
+
+        parts.append("  " + k.disc(cx, cy + r + 15, 6, k.RIGHT, k.RIGHT))
+        parts.append("  " + k.disc(cx, cy + r + 29, 5, k.DISC, k.DISC_EDGE))
+        parts.append("  " + k.disc(cx, cy + r + 41, 5, k.DISC, k.DISC_EDGE))
+        parts.append(k.label("start B", cx + 14, cy + r + 12, 11.5, k.TEXT, "start", "700"))
+        parts.append(k.label("queue 3m back", cx - 12, cy + r + 32, 10.5, k.MUTED, "end"))
+
+        # Anti-clockwise flow arrows
+        parts.append("  " + k.arrow(cx - 15, cy - r - 1, cx - 48, cy - r + 16, k.CONE, 2.0))
+        parts.append("  " + k.arrow(cx + 15, cy + r + 1, cx + 48, cy + r - 16, k.CONE, 2.0))
+
+        # Coach in center
+        parts.append("  " + k.disc(cx, cy, 7, k.RIGHT, k.RIGHT))
+        parts.append(k.label("COACH", cx, cy - 14, 11, k.TEXT, "middle", "700"))
+        parts.append(k.label("in center", cx, cy + 16, 10.5, k.MUTED, "middle"))
+        parts.append(k.label("watches form", cx, cy + 28, 10, k.MUTED, "middle"))
+
+        parts.append(k.label(f"Circle {idx} (≥ 10m)", cx, 78, 12.5, k.TEXT, "middle", "700"))
+
+    parts.append(k.dimension(205 + r, 539 - r, 195, "room between circles"))
+
+    parts.append(k.label("Both boys sprint anti-clockwise. Coach in center watches form and ensures boys stay outside cones.",
+                         372, 342, 12, k.TEXT, "middle"))
+
+    return k.svg(744, 356, "\n".join(parts))
+
+
 BUILDERS = {
     "move-pace": pace_gauge,
     "loop-grid": loop_grid,
@@ -302,6 +351,7 @@ BUILDERS = {
     "two-gates": two_gates,
     "staggered-lanes": staggered_lanes,
     "snake-sprint": snake_sprint,
+    "circle-chase": circle_chase,
 }
 
 

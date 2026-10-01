@@ -35,6 +35,7 @@ Nothing new is ever introduced on a Thursday. Two days before a match is not the
 4. Everyone does the same programme. No boy is ever told he is in the bottom group.
 5. Ease off every Thursday. There is a match two days later, every week.
 6. If they are not enjoying it, it has not worked, no matter what was on the plan.
+7. Mixture of ball use in each session (from session 12 onwards). Each session starts with a focus on form or the movement goal without the ball (minutes 1 to 6), but the second exercise (minutes 6 to 11) includes the ball where possible. Earlier sessions (1 to 11) stay untouched.
 
 ## The order of the themes
 

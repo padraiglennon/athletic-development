@@ -35,7 +35,7 @@ This page is the calendar and the reason the themes are in this order. The theme
 
 Five themes finish exactly on the Thursday before Halloween. What comes after Halloween is in the [year plan](year-plan.md). The body shapes are a theme of their own and they start in November.
 
-Every night has 1 minute setup followed by two 5-minute exercises: a movement of 5 minutes, and a challenge game or finish of 5 minutes.
+Every night has 1 minute setup followed by two 5-minute exercises: a movement of 5 minutes, and a challenge game or finish of 5 minutes. From session 12 (1 October) onwards, future sessions aim for a mixture of ball use: starting with a focus on form or the movement goal without the ball (minutes 1 to 6), with the second exercise including the ball where possible (minutes 6 to 11). Earlier sessions (1 to 11) stay untouched.
 
 ## The shape of a four night theme
 

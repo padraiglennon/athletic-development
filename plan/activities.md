@@ -2,7 +2,7 @@
 
 A bank of themes. A theme lasts four sessions: two Tuesdays and two Thursdays. What order the themes run in is in the [year plan](year-plan.md), and the autumn order is in [autumn-2026.md](autumn-2026.md).
 
-Every theme has 1 minute setup followed by two 5-minute exercises, so once the boys know how the station runs you stop having to explain it: a movement of 5 minutes, and a challenge game or finish of 5 minutes.
+Every theme has 1 minute setup followed by two 5-minute exercises, so once the boys know how the station runs you stop having to explain it: a movement of 5 minutes, and a challenge game or finish of 5 minutes. From session 12 onwards, future sessions aim for a mixture of ball use: the movement focuses on form without the ball, and the second exercise brings the ball in where possible (earlier sessions stay untouched).
 
 Four sessions is two turns of the fixture cycle, so every theme gets two hurling nights and two football nights. Tuesday is for teaching it slowly and pushing it. Thursday is for using it at speed and easing off before the match. The activity is the same both nights. The pace is not. See [Tuesday and Thursday](session-guide.md#tuesday-and-thursday).
 
@@ -66,12 +66,12 @@ Four run sheets: [sessions 9 to 12](sessions/3-sprints/).
 
 **Movement, 5 minutes.** Running tall. Waves of six, 15 metres at about three quarter pace for the first two nights and flat out on the third. Arms driving front to back, not across the body. Head still. Tall through the middle.
 
-**Challenge game, 5 minutes.** Pair races over 15 metres. Later in the theme, the 8-cone snake drill: sprint, lateral shuffle through the zigzag, and an explosive sprint out.
+**Challenge game, 5 minutes.** Pair races over 15 metres. Later in the theme, the 8-cone snake drill and the two-circle chase: two laps anti-clockwise around 10m+ circles, chasing the opposite runner and soloing on the hurl.
 
 **Watch for.** Arms swinging across the chest, and heads rolling side to side.
 
-**Easier.** Shorter distance, slower, and wider zigzag turns.
-**Harder.** Run with a hurl in one hand and keep the other arm working properly.
+**Easier.** Shorter distance or slower pace.
+**Harder.** Soloing a sliotar on the hurl while staying at full sprint.
 
 ---
 

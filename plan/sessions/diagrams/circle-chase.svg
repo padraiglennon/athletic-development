@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 744 356" width="744" height="356" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="743" height="355" rx="6" fill="#fcfcf8" stroke="#d8d8d0"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#22262b">Two large chase circles: opposite starts, 2 laps anti-clockwise</text>
+  <text x="24" y="56" font-size="12.5" fill="#6a6f76">at least 10m diameter · half squad each · queue 3m back · coach in center</text>
+  <circle cx="205" cy="195" r="70" fill="none" stroke="#c6c6bd" stroke-width="1.5" stroke-dasharray="3 9"/>
+  <circle cx="275.0" cy="195.0" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="254.49747468305833" cy="244.49747468305833" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="205.0" cy="265.0" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="155.50252531694167" cy="244.49747468305833" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="135.0" cy="195.0" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="155.50252531694167" cy="145.50252531694167" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="205.0" cy="125.0" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="254.49747468305833" cy="145.50252531694167" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="205" cy="110" r="6" fill="#2f7d4f" stroke="#2f7d4f" stroke-width="1.2"/>
+  <circle cx="205" cy="96" r="5" fill="#bcd8f5" stroke="#4b7fc4" stroke-width="1.2"/>
+  <circle cx="205" cy="84" r="5" fill="#bcd8f5" stroke="#4b7fc4" stroke-width="1.2"/>
+  <text x="191" y="119" font-size="11.5" fill="#4a4f56" text-anchor="end" font-weight="700">start A</text>
+  <text x="217" y="99" font-size="10.5" fill="#6a6f76" text-anchor="start" font-weight="400">queue 3m back</text>
+  <circle cx="205" cy="280" r="6" fill="#2f7d4f" stroke="#2f7d4f" stroke-width="1.2"/>
+  <circle cx="205" cy="294" r="5" fill="#bcd8f5" stroke="#4b7fc4" stroke-width="1.2"/>
+  <circle cx="205" cy="306" r="5" fill="#bcd8f5" stroke="#4b7fc4" stroke-width="1.2"/>
+  <text x="219" y="277" font-size="11.5" fill="#4a4f56" text-anchor="start" font-weight="700">start B</text>
+  <text x="193" y="297" font-size="10.5" fill="#6a6f76" text-anchor="end" font-weight="400">queue 3m back</text>
+  <g stroke="#e07a1f" stroke-width="2.0" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M 190 124 L 157 141"/><path d="M 162.6 134.0 L 157 141 L 166.0 140.5"/></g>
+  <g stroke="#e07a1f" stroke-width="2.0" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M 220 266 L 253 249"/><path d="M 247.4 256.0 L 253 249 L 244.0 249.5"/></g>
+  <circle cx="205" cy="195" r="7" fill="#2f7d4f" stroke="#2f7d4f" stroke-width="1.2"/>
+  <text x="205" y="181" font-size="11" fill="#4a4f56" text-anchor="middle" font-weight="700">COACH</text>
+  <text x="205" y="211" font-size="10.5" fill="#6a6f76" text-anchor="middle" font-weight="400">in center</text>
+  <text x="205" y="223" font-size="10" fill="#6a6f76" text-anchor="middle" font-weight="400">watches form</text>
+  <text x="205" y="78" font-size="12.5" fill="#4a4f56" text-anchor="middle" font-weight="700">Circle 1 (≥ 10m)</text>
+  <circle cx="539" cy="195" r="70" fill="none" stroke="#c6c6bd" stroke-width="1.5" stroke-dasharray="3 9"/>
+  <circle cx="609.0" cy="195.0" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="588.4974746830583" cy="244.49747468305833" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="539.0" cy="265.0" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="489.50252531694167" cy="244.49747468305833" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="469.0" cy="195.0" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="489.50252531694167" cy="145.50252531694167" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="539.0" cy="125.0" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="588.4974746830583" cy="145.50252531694167" r="6" fill="#e07a1f" stroke="#a8560f" stroke-width="1.2"/>
+  <circle cx="539" cy="110" r="6" fill="#2f7d4f" stroke="#2f7d4f" stroke-width="1.2"/>
+  <circle cx="539" cy="96" r="5" fill="#bcd8f5" stroke="#4b7fc4" stroke-width="1.2"/>
+  <circle cx="539" cy="84" r="5" fill="#bcd8f5" stroke="#4b7fc4" stroke-width="1.2"/>
+  <text x="525" y="119" font-size="11.5" fill="#4a4f56" text-anchor="end" font-weight="700">start A</text>
+  <text x="551" y="99" font-size="10.5" fill="#6a6f76" text-anchor="start" font-weight="400">queue 3m back</text>
+  <circle cx="539" cy="280" r="6" fill="#2f7d4f" stroke="#2f7d4f" stroke-width="1.2"/>
+  <circle cx="539" cy="294" r="5" fill="#bcd8f5" stroke="#4b7fc4" stroke-width="1.2"/>
+  <circle cx="539" cy="306" r="5" fill="#bcd8f5" stroke="#4b7fc4" stroke-width="1.2"/>
+  <text x="553" y="277" font-size="11.5" fill="#4a4f56" text-anchor="start" font-weight="700">start B</text>
+  <text x="527" y="297" font-size="10.5" fill="#6a6f76" text-anchor="end" font-weight="400">queue 3m back</text>
+  <g stroke="#e07a1f" stroke-width="2.0" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M 524 124 L 491 141"/><path d="M 496.6 134.0 L 491 141 L 500.0 140.5"/></g>
+  <g stroke="#e07a1f" stroke-width="2.0" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M 554 266 L 587 249"/><path d="M 581.4 256.0 L 587 249 L 578.0 249.5"/></g>
+  <circle cx="539" cy="195" r="7" fill="#2f7d4f" stroke="#2f7d4f" stroke-width="1.2"/>
+  <text x="539" y="181" font-size="11" fill="#4a4f56" text-anchor="middle" font-weight="700">COACH</text>
+  <text x="539" y="211" font-size="10.5" fill="#6a6f76" text-anchor="middle" font-weight="400">in center</text>
+  <text x="539" y="223" font-size="10" fill="#6a6f76" text-anchor="middle" font-weight="400">watches form</text>
+  <text x="539" y="78" font-size="12.5" fill="#4a4f56" text-anchor="middle" font-weight="700">Circle 2 (≥ 10m)</text>
+  <g stroke="#8b9099" stroke-width="1.2"><line x1="275" y1="195" x2="469" y2="195"/><line x1="275" y1="189" x2="275" y2="201"/><line x1="469" y1="189" x2="469" y2="201"/></g>
+  <rect x="334.0" y="186" width="76" height="18" fill="#fcfcf8"/>
+  <text x="372.0" y="199" font-size="12.5" fill="#4a4f56" text-anchor="middle" font-weight="400">room between circles</text>
+  <text x="372" y="342" font-size="12" fill="#4a4f56" text-anchor="middle" font-weight="400">Both boys sprint anti-clockwise. Coach in center watches form and ensures boys stay outside cones.</text>
+</svg>

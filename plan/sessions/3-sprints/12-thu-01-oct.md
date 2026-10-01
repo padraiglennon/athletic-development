@@ -12,34 +12,44 @@ code: Hurling
 night: ease
 match: Hurling, Saturday 3 October
 kit:
-  - 12 cones, six lanes, 15 metres
-  - A hurl each
-coach: Nothing. Find out whose arms have changed since Tuesday.
-wet: No change.
+  - 16 cones: two large circles (at least 10m diameter) with opposite start cones
+  - A hurl each and sliotars
+coach: Keeping the head up as much as possible and lifting knees for speed.
+wet: Keep circles wide and take care on greasy grass. Ease into the turns if slippery.
 ---
 
-Last night of the theme, a match in two days, and nothing new gets taught.
+Two large circles, at least 10 metres across, with plenty of room between them. Sprint chasing around the outside: first on foot, then soloing on the hurl.
 
-![Six lanes 15 metres long, with a cone at each end](../diagrams/lanes-15m.svg)
+![Two large chase circles: opposite starts, 2 laps anti-clockwise, queue 3m back, coach in center](../diagrams/circle-chase.svg)
 
 ## The station
 
-### 1 to 6 · Movement · Four sprints with a hurl
+### 1 to 6 · Movement · Two-circle running chase
 
-- Six waves of six over 15 metres with a hurl, at whatever pace they like.
-- Full rest between. Walk back, breathe, go again.
-- Stand at the finish line and watch the arms. Say nothing.
+- Two large circles at least 10 metres in diameter, with ample space between them. Half the group at each circle.
+- For each circle, break the boys into two groups placed behind opposite cones.
+- Waiting boys line up at least 3 metres back from the circle to not impede the runners.
+- Coaches stand in the center of the circle to watch form and ensure the boys keep outside the cones.
+- On the whistle, the front boy at each cone runs anti-clockwise trying to catch the boy from the other side.
+- They complete two laps of the circle, returning to their original cone or stopping wherever one boy catches the other.
+- Then the next two boys step forward and repeat the drill. Each boy runs once.
+- Focus on sprinting form: keep the head up as much as possible and lift the knees for speed.
 
-### 6 to 11 · Finish · Free sprints, then in
+### 6 to 11 · Challenge game · Solo chase and circle races
 
-- Four free waves at whatever pace each boy likes.
-- Walk them in with two minutes left.
-- Ask three boys: "What do your arms do when you run fast?"
-- Tell them the theme changes on Tuesday and it is stopping.
+- Repeat of the first drill, but this time soloing a sliotar on the hurl while trying to catch the other boy.
+- Same setup: two laps anti-clockwise, lines kept 3 metres back, coach in the center.
+- Maintain form under pressure: head up to navigate the curve and lifting knees high for speed.
+- If there is time for a third exercise, run a race between the two groups in each circle:
+  - Coach throws a sliotar on the ground in front of the starting boys to pick up and go.
+  - On completing their laps back to the starting point, each boy throws the sliotar on the ground in front of the next boy in line.
+  - First group to get all boys through their laps wins.
 
 ## Coach one thing
 
-- Any boy whose knees roll inwards when he runs. Note his name for the stopping theme, because it is the same fault.
+- Head down watching the ground or sliotar. Keep the chin up and lift knees high.
+- Boys crowding the circle. Keep all queues strictly 3 metres back.
+- Cutting inside the cones. Runners must stay on the outside perimeter for the full two laps.
 
 <!-- built: links -->
 [Print this sheet](12-thu-01-oct.pdf) · [How to run the station](../../session-guide.md) · [All twenty nights](../../autumn-2026.md) · [Back to session 11](11-tue-29-sep.md) · [On to session 13](../4-stopping/13-tue-06-oct.md)

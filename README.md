@@ -39,7 +39,7 @@ The match rotation makes them fit. The skills rotation teaches them hurling and 
 
 A theme is four sessions: two Tuesdays and two Thursdays. The autumn runs starting, endurance, sprints, stopping, jumping, and finishes on the Thursday before Halloween.
 
-Tuesday teaches it slowly and is the night to push. Thursday uses it at speed, with a hurl or a ball in hand, and eases off, because there is a match two days later every week.
+Tuesday teaches it slowly and is the night to push. Thursday uses it at speed, with a hurl or a ball in hand, and eases off, because there is a match two days later every week. From 1 October onwards, future sessions aim for a mixture of ball use: starting with movement form without the ball (minutes 1 to 6), with the second exercise including the ball where possible (minutes 6 to 11). Earlier sessions (1 to 11) stay untouched.
 
 Nothing heavier than their own body. Slower and correct beats faster and messy. Nobody gets tested, measured or ranked.
 
